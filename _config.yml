@@ -1,0 +1,18 @@
+# User config
+author: "STUDIO FOR NARRATIVE SPACES"
+tagline: "RAY LC"
+description: "We work with neuroscientists, roboticists, performers, designers, architects to tell immersive stories and grasp how human behaviors are shaped by environmental storytelling."
+keywords: "hci, installation, social good, vr ar, performance, machine learning, neuroscience, fashion tech, design fiction, games, web"
+contact: "https://recfreq.wordpress.com/contact"
+agency: "https://www.scm.cityu.edu.hk/"
+linkedin: "https://www.linkedin.com/in/raylc"
+instagram: "https://www.instagram.com/recfreq/?hl=en"
+youtube: "https://www.youtube.com/user/recfreq/videos"
+github: "https://github.com/recfro"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
