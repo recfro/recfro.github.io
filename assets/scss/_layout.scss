@@ -103,6 +103,7 @@
 
 	.img-wrapper {
 		position: relative;
+		overflow: hidden;  /*needed to keep image inside bounds*/
 
 		&:before {
 			content: "View Project";
@@ -140,6 +141,11 @@
 
 	img {
 		width: 100%;
+		transition: all 0.5s ease-out;
+	}
+
+	.img-wrapper:hover img {
+		transform: scale(1.25);  /*zoom in on hover*/
 	}
 
 	span {

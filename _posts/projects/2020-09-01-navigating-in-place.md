@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/navigating-in-place/Suifang_CellApproachArchITween01.gif"
+    url: "/assets/images/projects/navigating-in-place/Suifang_CellApproachArchShader01LowFPS.gif"
   - image:
     url: "/assets/images/projects/navigating-in-place/Luoying_ModelArch01.jpeg"
   - image:
