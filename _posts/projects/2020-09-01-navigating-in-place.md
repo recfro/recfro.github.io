@@ -12,6 +12,7 @@ project:
   url: "https://cityustudio.wordpress.com/portfolio/navigating-in-place/"
   logo: "/assets/images/projects/navigating-in-place/port_placeviz-01.jpg"
   tech: "hci, installation, neuroscience, machine learning"
+  people: "Luoying Lin, Suifang Zhou, Jill Shah, RAY LC"
 
 agency:
   title: "Saari Residence, GA 2020, CityU Hong Kong, CICA Museum"

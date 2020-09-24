@@ -12,6 +12,7 @@ project:
   url: "https://recfreq.wordpress.com/portfolio/agents-of-spatial-influence/"
   logo: "/assets/images/projects/agents-spatial-influence/port_chairbot-01.jpg"
   tech: "hci, installation, vr ar"
+  people:  "RAY LC, Natalie Friedman, JD Zamfirescu-Pereira, Wendy Ju"
 
 agency:
   title: "Cornell Tech, Parsons School of Design, Northeastern University"

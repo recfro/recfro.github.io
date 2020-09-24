@@ -12,6 +12,7 @@ project:
   url: "https://recfreq.wordpress.com/portfolio/decertainfy/"
   logo: "/assets/images/projects/decertainfy/port_decertainfy-01.jpg"
   tech: "performance, web"
+  people: "RAY LC, Mizuho Kappa, Tingting Chen"
 
 agency:
   title: "Burning Man BRCvr, Ars Electronica, Angewandte Festival"
