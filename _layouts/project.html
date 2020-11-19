@@ -39,6 +39,8 @@
 							{% include vimeoPlayer.html id=video.id %}
 							{% elsif video.type == "youtube" %}
 							{% include youtubePlayer.html id=video.id %}
+							{% elsif video.type == "webgl" %}
+							{% include webgl.html id=video.id %}
 							{% endif %}
 						</div>
 						</li>
