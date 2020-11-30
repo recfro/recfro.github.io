@@ -366,6 +366,89 @@
 	}
 }
 
+.pages {
+	left: 0;
+	position: relative;
+	top: 0;
+
+	@media (min-width: $breakpoint-medium) {
+		margin-top: -21rem;
+	}
+
+	.container {
+		max-width: 100%;
+		display: grid;
+		grid-template-columns: 30% 65%;
+	}
+
+	.container-people {
+		max-width: 100%;
+		display: grid;
+		grid-template-columns: 5% 20% 80%;  //includes an empty leftmost div.
+	}
+
+	.left {
+		margin-left: 3rem;
+		margin-right: 6rem;
+		margin-bottom: 3rem;
+
+		@media (min-width: $breakpoint-small) {
+			@include clearfix;
+		}
+
+		@media (min-width: $breakpoint-medium) {
+			float: left;
+			width: 100%;
+		}
+	}
+
+	.right {
+		margin-left: 6rem;
+		margin-bottom: 3rem;
+
+		@media (min-width: $breakpoint-medium) {
+			float: left;
+			left: 5%;
+			width: 100%;
+		}
+	}
+
+	.pages-meta {
+		margin: 3rem 0 0;
+
+		@media (min-width: $breakpoint-medium) {
+			margin: 5rem 0 0;
+			max-width: 70%;
+		}
+	}
+
+	.h2 {
+		margin: 3rem 0 .5rem;
+
+		&:first-of-type {
+			margin-top: 0;
+		}
+	}
+
+	h1 {
+		a {
+			text-decoration: underline;
+		}
+	}
+
+	li {
+		margin-bottom: 0rem;
+
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+
+	img {
+		width: 100%;
+	}
+}
+
 .footer {
 	background: $color-alabaster;
 	bottom: 0;
