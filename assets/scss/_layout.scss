@@ -378,13 +378,13 @@
 	.container {
 		max-width: 100%;
 		display: grid;
-		grid-template-columns: 30% 65%;
+		grid-template-columns: 30% 70%;
 	}
 
 	.container-people {
 		max-width: 100%;
 		display: grid;
-		grid-template-columns: 5% 20% 80%;  //includes an empty leftmost div.
+		grid-template-columns: 5% 20% 85%;  //includes an empty leftmost div.
 	}
 
 	.left {

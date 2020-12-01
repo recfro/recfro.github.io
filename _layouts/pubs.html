@@ -27,7 +27,11 @@
 					<h1>{{ pub.title }}</h1>
 					<div class="pages-meta">
 						<span class="h2">{{ pub.year }}</span>
-						<p>{{ pub.authors }}<a href="{{ pub.url }}">{{ pub.ref }}</a></p>
+						<p>{{ pub.authors }}<a href="{{ pub.url }}">{{ pub.ref }}</a>
+						{% if pub.web != "" %}
+						<a href="{{ pub.web }}">[website]</a>
+						{% endif %}
+					</p>
 					</div>
 				</div>
 				{% endfor %}
