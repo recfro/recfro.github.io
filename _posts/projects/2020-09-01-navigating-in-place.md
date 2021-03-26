@@ -4,11 +4,11 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "installation, neuroscience, machine learning"
+  keywords: "hci, installation, neuroscience, machine learning"
 
 project:
   title: "Navigating in Place"
-  type: "installation, neuroscience, machine learning"
+  type: "hci, installation, neuroscience, machine learning"
   url: "https://cityustudio.wordpress.com/portfolio/navigating-in-place/"
   logo: "/assets/images/projects/navigating-in-place/port_placeviz-01.jpg"
   tech: "hci, installation, neuroscience, machine learning"
