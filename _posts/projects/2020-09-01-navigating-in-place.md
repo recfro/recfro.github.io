@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "hci, installation, neuroscience, machine learning"
+  keywords: "neuroscience, hci, installation, machine learning"
 
 project:
   title: "Navigating in Place"
-  type: "hci, installation, neuroscience, machine learning"
+  type: "neuroscience, hci, installation, machine learning"
   url: "https://cityustudio.wordpress.com/portfolio/navigating-in-place/"
   logo: "/assets/images/projects/navigating-in-place/port_placeviz-01.jpg"
-  tech: "hci, installation, neuroscience, machine learning"
+  tech: "neuroscience, hci, installation, machine learning"
   people: "Luoying Lin, Suifang Zhou, RAY LC"
 
 agency:

@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "design fiction, neuroscience, machine learning, installation, hci"
+  keywords: "design fiction, neuroscience, machine learning, hci"
 
 project:
   title: "Designing for Narrative Influence"
-  type: "design fiction, machine learning, installation, hci"
+  type: "design fiction, machine learning, hci"
   url: "http://raylc.org/influence"
   logo: "/assets/images/projects/influence/port_influence-01.jpg"
-  tech: "design fiction, machine learning, installation, hci"
+  tech: "design fiction, machine learning, hci"
   people: "RAY LC, Daijiro Mizuno"
 
 agency:

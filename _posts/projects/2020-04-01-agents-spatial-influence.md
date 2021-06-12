@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "hci, installation, vr ar"
+  keywords: "vr ar, hci, installation"
 
 project:
   title: "Agents of Spatial Influence"
-  type: "hci, installation, vr ar"
+  type: "vr ar, hci, installation"
   url: "https://recfreq.wordpress.com/portfolio/agents-of-spatial-influence/"
   logo: "/assets/images/projects/agents-spatial-influence/port_chairbot-01.jpg"
-  tech: "hci, installation, vr ar"
+  tech: "vr ar, hci, installation"
   people:  "RAY LC, Natalie Friedman, JD Zamfirescu-Pereira, Wendy Ju"
 
 agency:
