@@ -15,7 +15,7 @@ project:
   people: "Luoying Lin, Suifang Zhou, RAY LC"
 
 agency:
-  title: "Saari Residence, GA 2020, CityU Hong Kong, CICA Museum"
+  title: "Saari Residence, Generative Art Conference 2020, CICA Museum"
   url: "https://cityustudio.wordpress.com/portfolio/navigating-in-place/"
   year: "2020"
 

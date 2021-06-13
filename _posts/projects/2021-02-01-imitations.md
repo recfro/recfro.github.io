@@ -15,7 +15,7 @@ project:
   people: "RAY LC"
 
 agency:
-  title: "NeurIPS'20, CityU Hong Kong"
+  title: "NeurIPS'20, Floating Projects"
   url: "https://raylc.org/imitations/"
   year: "2021"
 

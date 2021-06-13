@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Zeynep Erol, Eray Ozgunay, Jingwei Zhang, Yating Sun, Zijing Song"
 
 agency:
-  title: "Floating Projects Hong Kong, City University of Hong Kong"
+  title: "Floating Projects, Jockey Club Creative Arts Centre"
   url: "https://recfro.github.io/threeminds/"
   year: "2021"
 

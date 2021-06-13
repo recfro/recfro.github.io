@@ -15,7 +15,7 @@ project:
   people: "Maurice Benayoun, Permagnus Lindborg, RAY LC, Hongshen Xu, Tony Zhang, Sam Chan, Charlie Yip"
 
 agency:
-  title: "ACM Artech 2021"
+  title: "ACM ARTECH'21"
   url: "https://raylc.org/chairbots/PowerChess_ARTECH2021_10_New.pdf"
   year: "2021"
 
