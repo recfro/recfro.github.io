@@ -10,7 +10,7 @@ project:
   title: "I Was of Three Minds"
   type: "machine learning, performance, vr ar, web"
   url: "https://recfro.github.io/threeminds/"
-  logo: "/assets/images/projects/three-minds/port_threeminds01.png"
+  logo: "/assets/images/projects/three-minds/port_threeminds02.png"
   tech: "machine learning, performance, vr ar, web"
   people: "RAY LC, Zeynep Erol, Eray Ozgunay, Jingwei Zhang, Yating Sun, Zijing Song"
 
