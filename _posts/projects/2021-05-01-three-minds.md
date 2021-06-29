@@ -12,7 +12,7 @@ project:
   url: "https://recfro.github.io/threeminds/"
   logo: "/assets/images/projects/three-minds/port_threeminds02.png"
   tech: "machine learning, performance, vr ar, web"
-  people: "RAY LC, Zeynep Erol, Eray Ozgunay, Jingwei Zhang, Yating Sun, Zijing Song"
+  people: "RAY LC, Zeynep Erol, Eray Ozgunay, Anthon Zhang, Yating Sun, Zijing Song"
 
 agency:
   title: "Floating Projects, Jockey Club Creative Arts Centre"
