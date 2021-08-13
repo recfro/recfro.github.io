@@ -12,7 +12,7 @@ project:
   url: "https://www.focal.com/en/power-chess"
   logo: "/assets/images/projects/power-chess/port_powerchess01.png"
   tech: "hci, installation, games"
-  people: "Maurice Benayoun, Permagnus Lindborg, RAY LC, Hongshen Xu, Tony Zhang, Sam Chan, Charlie Yip"
+  people: "Maurice Benayoun, RAY LC, Permagnus Lindborg, Vvzela Kook, Hongshen Xu, Tony Zhang, Sam Chan, Charlie Yip"
 
 agency:
   title: "ACM ARTECH'21, Focal, Ars Electronica"
