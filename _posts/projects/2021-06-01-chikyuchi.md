@@ -9,13 +9,13 @@ meta:
 project:
   title: "Chikyuchi"
   type: "installation, games, hci, design fiction"
-  url: "https://constructingcontexts.scm.cityu.edu.hk/#Chikyuchi"
+  url: "https://vincentruijters.com/Chikyuchi"
   logo: "/assets/images/projects/chikyuchi/port_chikyuchi01.png"
   tech: "installation, games, hci, design fiction"
   people: "Vincent Ruijters, RAY LC, Kasin Fong, Yating Sun, Zijing Song"
 
 agency:
-  title: "Art Machines 2 Hong Kong, 5th Floor Tokyo"
+  title: "Art Machines 2 Hong Kong, 5th Floor Tokyo, SDGsxARTs Tokyo University of the Arts"
   url: "https://constructingcontexts.scm.cityu.edu.hk/#Chikyuchi"
   year: "2021"
 
