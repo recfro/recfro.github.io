@@ -7,7 +7,7 @@ meta:
   keywords: "performance, web"
 
 project:
-  title: "Decertainfy: entropy in finite spaces"
+  title: "Decertainfy: Entropy in Finite Spaces"
   type: "performance, web"
   url: "https://recfreq.wordpress.com/portfolio/decertainfy/"
   logo: "/assets/images/projects/decertainfy/port_decertainfy-01.jpg"
