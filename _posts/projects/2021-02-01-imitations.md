@@ -12,7 +12,7 @@ project:
   url: "https://raylc.org/imitations/"
   logo: "/assets/images/projects/imitations/figs_imitationsweb07square.jpg"
   tech: "machine learning, installation, web, hci"
-  people: "RAY LC"
+  people: "RAY LC, Zijing Song"
 
 agency:
   title: "NeurIPS'20, ACM ARTECH'21, Floating Projects, JCCAC"
