@@ -19,6 +19,11 @@ agency:
   url: "https://recfro.github.io/threeminds/"
   year: "2021"
 
+videos:
+  - video:
+    type: vimeo
+    id: "566114459"
+
 images:
   - image:
     url: "/assets/images/projects/three-minds/proj_iwasalwaysthere-21.jpg"

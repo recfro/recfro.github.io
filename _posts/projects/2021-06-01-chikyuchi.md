@@ -19,6 +19,11 @@ agency:
   url: "https://constructingcontexts.scm.cityu.edu.hk/#Chikyuchi"
   year: "2021"
 
+videos:
+  - video:
+    type: vimeo
+    id: "597188148"
+
 images:
   - image:
     url: "/assets/images/projects/chikyuchi/gifs_chikyuchi02.gif"
