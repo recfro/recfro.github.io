@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Zeynep Erol, Eray Ozgunay, Anthon Zhang, Yating Sun, Zijing Song"
 
 agency:
-  title: "Floating Projects, Jockey Club Creative Arts Center, Osage Gallery"
+  title: "Floating Projects, Jockey Club Creative Arts Center, Osage Gallery, Ars Electronica HK Garden"
   url: "https://recfro.github.io/threeminds/"
   year: "2021"
 
@@ -34,9 +34,7 @@ images:
   - image:
     url: "/assets/images/projects/three-minds/proj_iwasalwaysthere-54.jpg"
   - image:
-    url: "/assets/images/projects/three-minds/figs_present05.jpg"
-  - image:
-    url: "/assets/images/projects/three-minds/figs_threeminds09extended01.jpg"
+    url: "/assets/images/projects/three-minds/proj_iwasalwaysthere-51.jpg"
 ---
 <p align="center">
 "I was of three minds when one bracket tells a thousand items all changes level and composition."</p><br>
