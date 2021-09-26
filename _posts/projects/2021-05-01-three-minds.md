@@ -23,9 +23,6 @@ videos:
   - video:
     type: vimeo
     id: "566114459"
-  - video:
-    type: vimeo
-    id: "610374816"
 
 images:
   - image:
@@ -38,6 +35,12 @@ images:
     url: "/assets/images/projects/three-minds/proj_iwasalwaysthere-54.jpg"
   - image:
     url: "/assets/images/projects/three-minds/proj_iwasalwaysthere-51.jpg"
+
+videos:
+  - video:
+    type: vimeo
+    id: "610374816"
+
 ---
 <p align="center">
 "I was of three minds when one bracket tells a thousand items all changes level and composition."</p><br>
