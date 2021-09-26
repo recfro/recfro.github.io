@@ -23,6 +23,9 @@ videos:
   - video:
     type: vimeo
     id: "566114459"
+  - video:
+    type: vimeo
+    id: "610374816"
 
 images:
   - image:
