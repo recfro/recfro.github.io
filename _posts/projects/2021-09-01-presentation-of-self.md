@@ -10,7 +10,7 @@ project:
   title: "Presentation of Self In Machine Life"
   type: "performance, installation, hci, web"
   url: ""
-  logo: "/assets/images/projects/presentation-of-self/figs_poster01.jpg"
+  logo: "/assets/images/projects/presentation-of-self/figs_rehearse01.jpg"
   tech: "performance, installation, hci, web"
   people: "RAY LC, Marco Lui, Koala Yip, Long Man Luk, Valerie Mak, Zijing Song"
 
