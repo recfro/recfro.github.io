@@ -19,6 +19,11 @@ agency:
   url: ""
   year: "2021"
 
+videos:
+  - video:
+    type: youtube
+    id: "Wl0HR87xjGs"
+
 images:
   - image:
     url: "/assets/images/projects/presentation-of-self/figs_rehearse04.jpg"
