@@ -10,7 +10,7 @@ project:
   title: "Presentation of Self In Machine Life"
   type: "performance, installation, hci, web"
   url: ""
-  logo: "/assets/images/projects/presentation-of-self/figs_rehearse04square.jpg"
+  logo: "/assets/images/projects/presentation-of-self/port_robotdance-04square.jpg"
   tech: "performance, installation, hci, web"
   people: "RAY LC, Mizuho Kappa, Marco Lui, Koala Yip, Longman Luk, Valerie Mak, Zijing Song"
 
@@ -26,9 +26,15 @@ videos:
 
 images:
   - image:
-    url: "/assets/images/projects/presentation-of-self/figs_rehearse04.jpg"
+    url: "/assets/images/projects/presentation-of-self/proj_robotdance-04.jpg"
   - image:
-    url: "/assets/images/projects/presentation-of-self/figs_rehearse05.jpg"
+    url: "/assets/images/projects/presentation-of-self/proj_robotdance-06.jpg"
+  - image:
+    url: "/assets/images/projects/presentation-of-self/gif_dance02.gif"
+  - image:
+    url: "/assets/images/projects/presentation-of-self/proj_robotdance-03.jpg"
+  - image:
+    url: "/assets/images/projects/presentation-of-self/proj_robotdance-64.jpg"
   - image:
     url: "/assets/images/projects/presentation-of-self/figs_poster01.jpg"
 ---
