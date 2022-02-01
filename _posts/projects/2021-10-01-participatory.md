@@ -12,7 +12,7 @@ project:
   url: "http://floatingprojectscollective.net/art-notes/many-make4green-artists-green-yellow-blue-red-make4art-what-we-have-made/"
   logo: "/assets/images/projects/participatory/port_participate-01.jpg"
   tech: "installation, social good, design fiction, games"
-  people: "RAY LC, Bengi Agcal, Jen Lee, Marco Lui, Jing Wong, Zijing Song, Teresa Siu"
+  people: "RAY LC, Bengi Agcal, Jen Lee, Marco Lui, Jing Wong, Zijing Song, Teresa Siu, Emilie Tsoi"
 
 agency:
   title: "Floating Projects, HKUST, City University of Hong Kong"
@@ -22,7 +22,7 @@ agency:
 videos:
   - video:
     type: youtube
-    id: "6J2Pl0Hv6OE"
+    id: "xvevr1Vqh-Q"
 
 images:
   - image:
