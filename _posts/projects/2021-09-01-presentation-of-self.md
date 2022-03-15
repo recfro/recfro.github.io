@@ -12,7 +12,7 @@ project:
   url: ""
   logo: "/assets/images/projects/presentation-of-self/port_robotdance-04square.jpg"
   tech: "performance, installation, hci, web"
-  people: "RAY LC, Mizuho Kappa, Marco Lui, Koala Yip, Longman Luk, Valerie Mak, Zijing Song"
+  people: "RAY LC, Mizuho Kappa, Marco Lui, Koala Yip, Longman Luk, Valerie Mak"
 
 agency:
   title: "New York Hall of Science, CityU Hong Kong, Brick Theatre Brooklyn, NY Foundation for the Arts"

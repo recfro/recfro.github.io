@@ -12,7 +12,7 @@ project:
   url: "https://vincentruijters.com/Chikyuchi"
   logo: "/assets/images/projects/chikyuchi/port_chikyuchi01.png"
   tech: "installation, games, hci, design fiction"
-  people: "Vincent Ruijters, RAY LC, Kasin Fong"
+  people: "Vincent Ruijters, RAY LC"
 
 agency:
   title: "Art Machines 2 Hong Kong, 5th Floor Tokyo, SDGsxARTs Tokyo University of the Arts, Dat/Act Data Art for Climate Action"
