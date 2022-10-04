@@ -15,7 +15,7 @@ project:
   people: "Vincent Ruijters, RAY LC"
 
 agency:
-  title: "Art Machines 2 Hong Kong, 5th Floor Tokyo, SDGsxARTs Tokyo University of the Arts, Dat/Act Data Art for Climate Action"
+  title: "Art Machines 2 Hong Kong, 5th Floor Tokyo, SDGsxARTs Tokyo University of the Arts, Dat/Act Data Art for Climate Action, Science Gallery Detroit MSU"
   url: "https://constructingcontexts.scm.cityu.edu.hk/#Chikyuchi"
   year: "2021"
 

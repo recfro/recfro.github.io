@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Mizuho Kappa, Marco Lui, Koala Yip, Longman Luk, Valerie Mak"
 
 agency:
-  title: "New York Hall of Science, CityU Hong Kong, Brick Theatre Brooklyn, NY Foundation for the Arts, HKADC"
+  title: "New York Hall of Science, Brick Theatre Brooklyn, NY Foundation for the Arts, HKADC, IEEE VISAP"
   url: ""
   year: "2022"
 
