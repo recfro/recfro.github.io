@@ -9,14 +9,14 @@ meta:
 project:
   title: "Presentation of Self In Machine Life"
   type: "performance, installation, hci, web"
-  url: ""
+  url: "https://visap.net/2022/contributions/presentation-of-self-in-machine-life"
   logo: "/assets/images/projects/presentation-of-self/port_robotdance-04square.jpg"
   tech: "performance, installation, hci, web"
   people: "RAY LC, Mizuho Kappa, Marco Lui, Koala Yip, Longman Luk, Valerie Mak"
 
 agency:
   title: "New York Hall of Science, Brick Theatre Brooklyn, NY Foundation for the Arts, HKADC, IEEE VISAP"
-  url: ""
+  url: "https://visap.net/2022/contributions/presentation-of-self-in-machine-life"
   year: "2022"
 
 videos:
