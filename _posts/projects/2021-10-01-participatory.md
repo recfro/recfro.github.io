@@ -15,8 +15,8 @@ project:
   people: "RAY LC, Bengi Agcal, Jen Lee, Marco Lui, Jing Wong, Holly Leung, Emilie Choi"
 
 agency:
-  title: "Floating Projects, HKUST, Lingnan University, City University of Hong Kong"
-  url: "http://floatingprojectscollective.net/art-notes/many-make4green-artists-green-yellow-blue-red-make4art-what-we-have-made/"
+  title: "SIGGRAPH Asia, Floating Projects, HKUST, Lingnan University, City University of Hong Kong"
+  url: "https://sa2022.siggraph.org/en/presentation/?id=artg_187&sess=sess225"
   year: "2022"
 
 videos:
