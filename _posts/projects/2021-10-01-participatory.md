@@ -16,7 +16,7 @@ project:
 
 agency:
   title: "SIGGRAPH Asia, Floating Projects, HKUST, Lingnan University, City University of Hong Kong"
-  url: "https://sa2022.siggraph.org/en/presentation/?id=artg_187&sess=sess225"
+  url: "https://nabi.or.kr/en/page/board_view.php?brd_idx=1185&brd_id=project"
   year: "2022"
 
 videos:
