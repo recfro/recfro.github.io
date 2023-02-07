@@ -20,9 +20,12 @@
 				<div class="right">
 					<h1>{{ opp.title }}</h1>
 					<div class="pages-meta">
-						<span class="h2">{{ opp.venue }}</span>
-						<p><a href="{{ opp.url }}">{{ opp.intro }}</a>
-						</p>
+						<span class="h2"></span>
+						<p>{{ opp.intro }}</p>
+						<span class="h2"><a href="{{ opp.url }}">{{ opp.ref }}</a></span>
+						{% if opp.url2 != "" %}
+						<span class="h2"><a href="{{ opp.url2 }}">{{ opp.ref2 }}</a></span>
+						{% endif %}
 					</div>
 				</div>
 				{% endfor %}
