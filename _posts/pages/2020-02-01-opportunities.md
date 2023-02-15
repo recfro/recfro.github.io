@@ -12,7 +12,7 @@ opps:
 We are currently recruiting PhD students with interests in:
 <pre>
 &nbsp;&nbsp;&nbsp;&#x2022; human-robotic interaction<br>
-&nbsp;&nbsp;&nbsp;&#x2022; social computing<br>
+&nbsp;&nbsp;&nbsp;&#x2022; social computing, especially in VR/AR<br>
 &nbsp;&nbsp;&nbsp;&#x2022; human-AI interaction<br>
 &nbsp;&nbsp;&nbsp;&#x2022; technology in art and performance
 </pre>
