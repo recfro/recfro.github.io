@@ -30,7 +30,7 @@ In order to process your <a href='https://www.scm.cityu.edu.hk/people/ray-lc'><u
 &nbsp;&nbsp;&nbsp;&#x2022; robotics (python)<br>
 &nbsp;&nbsp;&nbsp;&#x2022; machine learning (pytorch tensorflow colab R chatbots)<br>
 &nbsp;&nbsp;&nbsp;&#x2022; web (javascript react node D3 APIs)<br>
-&nbsp;&nbsp;&nbsp;&#x2022; game development (unity)
+&nbsp;&nbsp;&nbsp;&#x2022; game and VR development (unity)
 </pre>
 RAs at CityU typically join via the Campus Internship Scheme, but are involved in research that can lead to publication and exhibition opportunities. Non-CityU RAs are accepted if they possess particular critical skills of interest, such as robotics development. Salary follows the standard university scale. RAs and student helpers are given full credit for their work; note recent paper and exhibition credits on our website and external links. Interested parties should <a href='https://www.scm.cityu.edu.hk/people/ray-lc'><u>email us</u></a> with a CV and the subject heading '[SNS UG] - Your Name in English'."
     image: "/assets/images/pages/opps_RA01.jpg"
