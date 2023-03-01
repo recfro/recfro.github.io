@@ -12,7 +12,7 @@ project:
   url: "https://unduplicated2022.wordpress.com/"
   logo: "/assets/images/projects/unduplicated/port_unduplicated02.png"
   tech: "installation, machine learning, vr ar, games"
-  people: "RAY LC"
+  people: "RAY LC, Cheng Yang"
 
 agency:
   title: "Videotage, City University of Hong Kong"
