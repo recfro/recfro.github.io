@@ -40,6 +40,7 @@ RAs at CityU typically join via the Campus Internship Scheme, but are involved i
   - title: "Undergraduate and Masters Students."
     intro: "Support for FYP and masters theses are limited. Priority will be given to students who craft research proposals that can utilize the expertise and technology of our studio. The proposed research should include human-computer interaction or art-technology work, and must be scholarly in nature. We encourage interdisciplinary approaches but do not accept pure art projects. Your <a href='https://www.scm.cityu.edu.hk/people/ray-lc'><u>email enquiries</u></a> should indicate strong motivation for the work proposed, skills that you hope to work with, the number of hours dedicated per week, CV, and the subject heading '[SNS UG] - Your Name in English'."
     image: "/assets/images/pages/opps_masters01.jpg"
+    image: "/assets/images/pages/2023labphotos-13sq.jpg"
     url: "http://www.cityu.edu.hk/lib/digital/studproj/"
     ref: "cityu hk student final year projects"
     url2: "https://raylc.org/teaching/"
