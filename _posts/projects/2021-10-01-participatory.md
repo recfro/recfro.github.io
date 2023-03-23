@@ -12,7 +12,7 @@ project:
   url: "http://floatingprojectscollective.net/art-notes/many-make4green-artists-green-yellow-blue-red-make4art-what-we-have-made/"
   logo: "/assets/images/projects/participatory/port_participate-01.jpg"
   tech: "installation, social good, design fiction, games"
-  people: "RAY LC, Bengi Agcal, Jen Lee, Marco Lui, Jing Wong, Holly Leung, Emilie Choi"
+  people: "RAY LC, Bengi Agcal, Jen Lee, Jing Wong, Holly Leung, Emilie Choi"
 
 agency:
   title: "SIGGRAPH Asia, Floating Projects, HKUST, Lingnan University, City University of Hong Kong"

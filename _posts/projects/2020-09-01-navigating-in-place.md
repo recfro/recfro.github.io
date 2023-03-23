@@ -12,7 +12,7 @@ project:
   url: "https://cityustudio.wordpress.com/portfolio/navigating-in-place/"
   logo: "/assets/images/projects/navigating-in-place/port_placeviz-01.jpg"
   tech: "neuroscience, hci, installation, machine learning"
-  people: "Luoying Lin, Suifang Zhou, RAY LC"
+  people: "RAY LC, Suifang Zhou"
 
 agency:
   title: "Saari Residence, Generative Art Conference 2020, CICA Museum"
