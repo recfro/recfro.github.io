@@ -8,7 +8,7 @@ meta:
 
 opps:
   - title: "Prospective PhD Students."
-    intro: "We value ability to work independently, interdisciplinary thinking, and open, proactive communication. Most applicants to our studio have worked with us to some capacity, typically in online projects, for example in the <a href='https://mp.weixin.qq.com/s/rgs7kxQVYghuQMFpvK2fsA'><u>HCIX program</u></a>, or in a project of their choice. Thus communicate with us at least 5 months before graduate admissions deadlines.<br><br>
+    intro: "We value ability to work independently, interdisciplinary thinking, and open, proactive communication. Most applicants to our studio have worked with us to some capacity, typically in online projects, for example in the <a href='https://mp.weixin.qq.com/s?__biz=Mzg3ODYyNTcxNg==&mid=2247484119&idx=1&sn=45fa261d6f6712743c9a2e8bd74034c3&chksm=cf11940cf8661d1a548ce38ff94d2acdf81f898b1a73019f56627c8f2851f5c3b2814c59b330&scene=178&cur_album_id=2918935031265099776#rd'><u>HCIX program</u></a>, or in a project of their choice. Thus communicate with us at least 5 months before graduate admissions deadlines.<br><br>
 We are currently recruiting PhD students with interests in:
 <pre>
 &nbsp;&nbsp;&nbsp;&#x2022; human-robotic interaction<br>
