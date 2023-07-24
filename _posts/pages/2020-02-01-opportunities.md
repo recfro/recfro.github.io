@@ -32,7 +32,12 @@ In order to process your <a href='https://www.scm.cityu.edu.hk/people/ray-lc'><u
 &nbsp;&nbsp;&nbsp;&#x2022; web (javascript react node D3 APIs)<br>
 &nbsp;&nbsp;&nbsp;&#x2022; game and VR development (unity)
 </pre>
-RAs at CityU typically join via the Campus Internship Scheme, but are involved in research that can lead to publication and exhibition opportunities. Non-CityU RAs are accepted if they possess particular critical skills of interest, such as robotics development. Salary follows the standard university scale. RAs and student helpers are given full credit for their work; note recent paper and exhibition credits on our website and external links. Interested parties should <a href='https://www.scm.cityu.edu.hk/people/ray-lc'><u>email us</u></a> with a CV and the subject heading '[SNS UG] - Your Name in English'."
+RAs can enroll in one of the following two programs that fit their needs:
+<pre>
+&nbsp;&nbsp;&nbsp;&#x2022; remote scheme (at least 3 months, voluntary basis)<br>
+&nbsp;&nbsp;&nbsp;&#x2022; in-person scheme (at least 4.5 months, paid at standard university scale)
+</pre>
+Participants in both schemes are involved in research that can lead to publication and exhibition opportunities. RAs and student helpers are given full credit for their work; note recent paper and exhibition credits on our website and links. Students from CityU typically join via the Campus Internship Scheme. Interested parties should <a href='https://www.scm.cityu.edu.hk/people/ray-lc'><u>email us</u></a> with a letter of motivation, CV, and the subject heading '[SNS UG] - Your Name in English'."
     image: "/assets/images/pages/opps_RA01.jpg"
     url: "http://www.cityu.edu.hk/caio/cis/"
     ref: "cityu hk campus internship scheme"
