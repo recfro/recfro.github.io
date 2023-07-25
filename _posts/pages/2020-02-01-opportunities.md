@@ -35,15 +35,15 @@ In order to process your enquiries, prepare the following: (1) show knowledge of
 RAs can enroll in one of the following two programs that fit their needs:
 <pre>
 &nbsp;&nbsp;&nbsp;&#x2022; remote scheme (at least 3 months, voluntary basis)<br>
-&nbsp;&nbsp;&nbsp;&#x2022; in-person scheme (at least 4.5 months, paid at standard university scale)
+&nbsp;&nbsp;&nbsp;&#x2022; in-person scheme (at least 4.5 months, paid if good performance)
 </pre>
-Participants in both schemes are involved in research that can lead to publication and exhibition opportunities. RAs and student helpers are given full credit for their work; note recent paper and exhibition credits on our website and links. Benefits also includes learning of HCI workflows, collaboration and networking opportunities, recommendation letter (if good performance), and future graduate student opportunities (if good performance). Students from CityU typically join via the Campus Internship Scheme. Interested parties should fill out <a href='https://forms.gle/WE2AuuB7yUyyqvF18'><u>this form</u></a>
+Participants in both schemes are involved in research that can lead to publication and exhibition opportunities. RAs and student helpers are given full credit for their work; note recent paper and exhibition credits on our website and links. Benefits also includes learning of HCI workflows, collaboration and networking opportunities, recommendation letter (if good performance), and future graduate student opportunities (if good performance). Students from CityU typically join via the Campus Internship Scheme. Interested parties should fill out <a href='https://forms.gle/WE2AuuB7yUyyqvF18'><u>this form</u></a>."
     image: "/assets/images/pages/opps_RA01.jpg"
     url: "http://www.cityu.edu.hk/caio/cis/"
     ref: "cityu hk campus internship scheme"
 
   - title: "Undergraduate and Masters Students."
-    intro: "Support for FYP and masters theses are limited. Priority will be given to students who craft research proposals that can utilize the expertise and technology of our studio. The proposed research should include human-computer interaction or art-technology work, and must be scholarly in nature. We encourage interdisciplinary approaches but do not accept pure art projects. Your enquiries should indicate strong motivation for the work proposed, skills that you hope to work with, the number of hours dedicated per week, and CV. You can then fill out <a href='https://forms.gle/WE2AuuB7yUyyqvF18'><u>this form</u></a>.
+    intro: "Support for FYP and masters theses are limited. Priority will be given to students who craft research proposals that can utilize the expertise and technology of our studio. The proposed research should include human-computer interaction or art-technology work, and must be scholarly in nature. We encourage interdisciplinary approaches but do not accept pure art projects. Your enquiries should indicate strong motivation for the work proposed, skills that you hope to work with, the number of hours dedicated per week, and CV. You can then fill out <a href='https://forms.gle/WE2AuuB7yUyyqvF18'><u>this form</u></a>."
     image: "/assets/images/pages/opps_masters01.jpg"
     image: "/assets/images/pages/2023labphotos-13sq.jpg"
     url: "http://www.cityu.edu.hk/lib/digital/studproj/"
@@ -56,6 +56,5 @@ Participants in both schemes are involved in research that can lead to publicati
     image: "/assets/images/pages/opps_cityuscm.jpg"
     url: "https://www.scm.cityu.edu.hk/"
     ref: "cityu hk school of creative media"
-
 ---
 <p></p>
