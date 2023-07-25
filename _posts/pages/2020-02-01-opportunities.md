@@ -37,7 +37,7 @@ RAs can enroll in one of the following two programs that fit their needs:
 &nbsp;&nbsp;&nbsp;&#x2022; remote scheme (at least 3 months, voluntary basis)<br>
 &nbsp;&nbsp;&nbsp;&#x2022; in-person scheme (at least 4.5 months, paid at standard university scale)
 </pre>
-Participants in both schemes are involved in research that can lead to publication and exhibition opportunities. RAs and student helpers are given full credit for their work; note recent paper and exhibition credits on our website and links. Students from CityU typically join via the Campus Internship Scheme. Interested parties should <a href='https://www.scm.cityu.edu.hk/people/ray-lc'><u>email us</u></a> with a letter of motivation, CV, and the subject heading '[SNS UG] - Your Name in English'."
+Participants in both schemes are involved in research that can lead to publication and exhibition opportunities. RAs and student helpers are given full credit for their work; note recent paper and exhibition credits on our website and links. Benefits also includes learning of HCI workflows, collaboration and networking opportunities, recommendation letter (if good performance), and future graduate student opportunities (if good performance). Students from CityU typically join via the Campus Internship Scheme. Interested parties should <a href='https://www.scm.cityu.edu.hk/people/ray-lc'><u>email us</u></a> with a letter of motivation, CV, and the subject heading '[SNS UG] - Your Name in English'."
     image: "/assets/images/pages/opps_RA01.jpg"
     url: "http://www.cityu.edu.hk/caio/cis/"
     ref: "cityu hk campus internship scheme"
