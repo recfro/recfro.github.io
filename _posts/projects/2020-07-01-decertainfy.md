@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "performance, web"
+  keywords: "performance, web, video"
 
 project:
   title: "Decertainfy"
-  type: "performance, web"
+  type: "performance, web, video"
   url: "https://recfreq.wordpress.com/portfolio/decertainfy/"
   logo: "/assets/images/projects/decertainfy/port_decertainfy-01.jpg"
-  tech: "performance, web"
+  tech: "performance, web, video"
   people: "RAY LC, Mizuho Kappa, Tingting Chen"
 
 agency:

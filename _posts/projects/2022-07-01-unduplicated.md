@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "installation, machine learning, vr ar, games"
+  keywords: "installation, machine learning, vr ar, games, video"
 
 project:
   title: "Unduplicated"
-  type: "installation, machine learning, vr ar, games"
+  type: "installation, machine learning, vr ar, games, video"
   url: "https://unduplicated2022.wordpress.com/"
   logo: "/assets/images/projects/unduplicated/port_unduplicated02.png"
-  tech: "installation, machine learning, vr ar, games"
+  tech: "installation, machine learning, vr ar, games, video"
   people: "RAY LC, Cheng Yang"
 
 agency:
