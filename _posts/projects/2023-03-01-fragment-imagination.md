@@ -12,7 +12,7 @@ project:
   url: "http://theuntitled.cn/portfolio/fragment-of-our-imagination-ray-lc/"
   logo: "/assets/images/projects/fragment-imagination/port_fragment02.jpg"
   tech: "installation, machine learning, design fiction, video"
-  people: "RAY LC, Mia Yao"
+  people: "RAY LC, Mia Yao Lan"
 
 agency:
   title: "Shanghai Acentric Space, Hong Kong Arts Development Council"

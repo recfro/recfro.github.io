@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "installation, games, hci, design fiction"
+  keywords: "installation, games, hci, design fiction, social good"
 
 project:
   title: "Chikyuchi"
-  type: "installation, games, hci, design fiction"
+  type: "installation, games, hci, design fiction, social good"
   url: "https://vincentruijters.com/Chikyuchi"
   logo: "/assets/images/projects/chikyuchi/port_chikyuchi01.png"
-  tech: "installation, games, hci, design fiction"
+  tech: "installation, games, hci, design fiction, social good"
   people: "Vincent Ruijters, RAY LC"
 
 agency:
