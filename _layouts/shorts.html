@@ -12,23 +12,23 @@
 	<main class="content">
 		<section class="pages">
 			<div class="container-pubs">
-				{% for pubs in page.pubs %}
+				{% for shorts in page.shorts %}
 				<div></div>
 				<div class="left">
-					<img src="{{ pubs.image }}">
+					<img src="{{ shorts.image }}">
 				</div>
 				<div class="right">
-					<h3><a href="{{ pubs.url }}">{{ pubs.title }}</a></h3>
+					<h3><a href="{{ shorts.url }}">{{ shorts.title }}</a></h3>
 					<div class="pages-pubs">
-						<span class="h2">{{ pubs.ref }}
-						{% if pubs.video != "" %}
-						<a href="{{ pubs.video }}">[video]</a>
+						<span class="h2">{{ shorts.ref }}
+						{% if shorts.video != "" %}
+						<a href="{{ shorts.video }}">[video]</a>
 						{% endif %}
-						{% if pubs.web != "" %}
-						<a href="{{ pubs.web }}">[website]</a>
+						{% if shorts.web != "" %}
+						<a href="{{ shorts.web }}">[website]</a>
 						{% endif %}
 						</span>
-						{{ pubs.year }}
+						{{ shorts.year }}
 					</div>
 				</div>
 				{% endfor %}

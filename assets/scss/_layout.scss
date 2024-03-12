@@ -392,6 +392,12 @@ a:hover {
 		grid-template-columns: 5% 20% 85%;  //includes an empty leftmost div.
 	}
 
+	.container-pubs {
+		max-width: 100%;
+		display: grid;
+		grid-template-columns: 5% 12% 65%;  //includes an empty leftmost div.
+	}
+
 	.left {
 		margin-left: 3rem;
 		margin-right: 6rem;
@@ -423,6 +429,15 @@ a:hover {
 
 		@media (min-width: $breakpoint-medium) {
 			margin: 5rem 0 0;
+			max-width: 70%;
+		}
+	}
+
+	.pages-pubs {
+		margin: 3rem 0 0;
+
+		@media (min-width: $breakpoint-medium) {
+			margin: 1rem 0 0;
 			max-width: 70%;
 		}
 	}
