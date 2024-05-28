@@ -22,10 +22,7 @@ agency:
 videos:
   - video:
     type: youtube
-    id: "KDVtYcmTRn4"
-  - video:
-    type: youtube
-    id: "IpgQt-SFkMs"
+    id: "I5cJDomnAq0"
 
 images:
   - image:
