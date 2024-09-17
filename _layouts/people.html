@@ -22,7 +22,7 @@
 					<div class="pages-meta">
 						<span class="h2">{{ ppl.role }}</span>
 						<p>{{ ppl.intro }}</p>
-						<span class="h2"><a href="{{ ppl.url }}">website</a></span>
+						<span class="h2">{% if ppl.url != "" %}<a href="{{ ppl.url }}">website</a>{% endif %}</span>
 					</div>
 				</div>
 				{% endfor %}
