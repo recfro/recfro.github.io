@@ -8,11 +8,11 @@ meta:
 
 opps:
   - title: "Prospective PhD Students."
-    intro: "We value ability to work independently, interdisciplinary thinking, and open, proactive communication. Most applicants to our studio have worked with us to some capacity, typically in online projects, for example in the <a href='https://mp.weixin.qq.com/s?__biz=Mzg3ODYyNTcxNg==&mid=2247484119&idx=1&sn=45fa261d6f6712743c9a2e8bd74034c3&chksm=cf11940cf8661d1a548ce38ff94d2acdf81f898b1a73019f56627c8f2851f5c3b2814c59b330&scene=178&cur_album_id=2918935031265099776#rd'><u>HCIX program</u></a>, or in a project of their choice. Thus communicate with us at least 5 months before graduate admissions deadlines.<br><br>
+    intro: "We value ability to work independently, interdisciplinary thinking, and loyal, open, proactive communication. Most applicants to our studio have worked with us to some capacity, typically in online projects, for example in the <a href='https://mp.weixin.qq.com/s?__biz=Mzg3ODYyNTcxNg==&mid=2247484119&idx=1&sn=45fa261d6f6712743c9a2e8bd74034c3&chksm=cf11940cf8661d1a548ce38ff94d2acdf81f898b1a73019f56627c8f2851f5c3b2814c59b330&scene=178&cur_album_id=2918935031265099776#rd'><u>HCIX program</u></a>, or in a project of their choice. Thus communicate with us at least 5 months before graduate admissions deadlines.<br><br>
 We are currently recruiting PhD students with interests in:
 <pre>
 &nbsp;&nbsp;&nbsp;&#x2022; human-robotic interaction<br>
-&nbsp;&nbsp;&nbsp;&#x2022; social computing, especially in VR-AR<br>
+&nbsp;&nbsp;&nbsp;&#x2022; social computing (topics like VR-AR, social media, creative support)<br>
 &nbsp;&nbsp;&nbsp;&#x2022; human-AI interaction<br>
 &nbsp;&nbsp;&nbsp;&#x2022; technology in art and performance
 </pre>
@@ -29,7 +29,7 @@ In order to process your enquiries, prepare the following: (1) show knowledge of
 <pre>
 &nbsp;&nbsp;&nbsp;&#x2022; robotics (python)<br>
 &nbsp;&nbsp;&nbsp;&#x2022; machine learning (pytorch tensorflow colab R chatbots)<br>
-&nbsp;&nbsp;&nbsp;&#x2022; web (javascript react node D3 APIs)<br>
+&nbsp;&nbsp;&nbsp;&#x2022; web (javascript react flask node D3 APIs)<br>
 &nbsp;&nbsp;&nbsp;&#x2022; game and VR development (unity)
 </pre>
 RAs can enroll in one of the following two programs that fit their needs:
@@ -51,8 +51,8 @@ Participants in both schemes are involved in research that can lead to publicati
     url2: "https://raylc.org/teaching/"
     ref2: "courses taught by studio for narrative spaces"
 
-  - title: "About CITYU School of Creative Media."
-    intro: "CITYU SCM is one of the leading program in creative technology and interactive media in Asia and beyond. It is the first interdisciplinary program of its kind in Hong Kong. Our faculty includes world-leaders in <a href='https://www.scm.cityu.edu.hk/people/fu-hongbo'><u>computer graphics</u></a>, <a href='https://www.scm.cityu.edu.hk/people/zheng-bo'><u>environmental art</u></a>, <a href='https://www.scm.cityu.edu.hk/people/yuk-hui'><u>philosophy</u></a>, <a href='https://www.scm.cityu.edu.hk/people/wei-shiyu-louisa'><u>documentary filmmaking</u></a>, and more. Located centrally in Kowloon Tong, City University of Hong Kong is a <a href='https://www.qschina.cn/en/university-rankings/asian-university-rankings/2022'><u>highly ranked institution</u></a> lying at the junction of East and West, fostering a unique fusion of cultures due to its international programs as well as the unique history of Hong Kong."
+  - title: "International Students and CITYU School of Creative Media."
+    intro: "International students and RAs are encouraged to apply. The official language of communication and writing is English, although graduate students and RAs can speak both English and Chinese proficiently. There is a thriving community of non-Chinese individuals both in the lab and in Hong Kong at large. In particular, the lab leader is Chinese American who grew up speaking both Chinese and English, reflecting the diversity of the lab and the university. CITYU SCM is one of the leading program in creative technology and interactive media in Asia and beyond. Our faculty includes world-leaders in <a href='https://www.scm.cityu.edu.hk/people/fu-hongbo'><u>computer graphics</u></a>, <a href='https://www.scm.cityu.edu.hk/people/zheng-bo'><u>environmental art</u></a>, <a href='https://www.scm.cityu.edu.hk/people/yuk-hui'><u>philosophy</u></a>, <a href='https://www.scm.cityu.edu.hk/people/wei-shiyu-louisa'><u>documentary filmmaking</u></a>, and more. Located centrally in Kowloon Tong, City University of Hong Kong is a <a href='https://www.qschina.cn/en/university-rankings/asian-university-rankings/2022'><u>highly ranked institution</u></a> lying at the junction of East and West, fostering a unique fusion of cultures due to its international programs as well as the unique history of Hong Kong."
     image: "/assets/images/pages/opps_cityuscm.jpg"
     url: "https://www.scm.cityu.edu.hk/"
     ref: "cityu hk school of creative media"
