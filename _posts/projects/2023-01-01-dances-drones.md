@@ -25,7 +25,7 @@ videos:
     id: "KNos9Z27w0c"
   - video:
     type: youtube
-    id: "KNos9Z27w0c"
+    id: "LQqgiHM4MoA"
 
 images:
   - image:

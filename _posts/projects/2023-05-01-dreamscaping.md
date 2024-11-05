@@ -21,6 +21,9 @@ agency:
 
 videos:
   - video:
+    type: vimeo
+    id: "1024688616"
+  - video:
     type: youtube
     id: "I5cJDomnAq0"
 
