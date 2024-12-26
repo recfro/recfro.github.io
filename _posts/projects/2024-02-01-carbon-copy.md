@@ -51,6 +51,6 @@ CARBON COPY leverages cutting-edge GenAI tools to create a fake dating platform 
 CARBON COPY uses an interactive dating experience to provoke visitors to engage with real-world issues of AI-driven misidentification, urging them to reflect on the trust they place in digital personas and the broader consequences of AI's infiltration into uniquely human social ecosystems. By inviting audiences to critically examine how GenAI-created content is reshaping perceptions and interactions in human social relationships, the project sparks public discourse on misinformation and misidentification in social media profiles.<br><br>
 Main dating website: <a href="https://carboncopydating.github.io/carboncopydating/"><u>Carbon Copy</u></a>.<br>
 Select dating profiles: <a href="https://www.instagram.com/carbon_copy_date/"><u>Instagram</u></a>.<br>
-Exhibition: <a href="https://2024.adaf.gr/artworks/carbon-copy/"><u>Athens Digital Arts Festival</u></a>.<br>
+Exhibition: <a href="https://sites.google.com/view/beyondhumanspaces/"><u>Athens Digital Arts Festival</u></a>.<br>
 Exhibition: <a href="https://www.youtube.com/watch?v=3J4Jok8MHEU&t"><u>Beyond Human Spaces at PMQ, Hong Kong</u></a>.<br>
-CSCW Paper: <a href="https://github.com/carboncopydating/carboncopydating/blob/main/cscw24d-sub6857-i26.pdf"><u>An Image of Ourselves in Our Minds</u></a>.</p>
+CSCW 2025 Paper: <a href="https://raylc.org/chairbots/CarbonCopy_CSCW_03Prepub.pdf"><u>An Image of Ourselves in Our Minds</u></a>.</p>
