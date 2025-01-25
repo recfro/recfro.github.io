@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "installation, hci, performance, vr ar"
+  keywords: "installation, hci, performance, vr ar, video"
 
 project:
   title: "Becoming My Own Audience"
-  type: "installation, hci, performance, vr ar"
+  type: "installation, hci, performance, vr ar, video"
   url: ""
   logo: "/assets/images/projects/mocap-avatar/port_mocap01.jpg"
-  tech: "installation, hci, performance, vr ar"
+  tech: "installation, hci, performance, vr ar, video"
   people: "RAY LC, Grace Fan Zhang, Lareina Molin Li, Kexue Fu, Xiaoyu Chang, Richard Allen"
 
 agency:

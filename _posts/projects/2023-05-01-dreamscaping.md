@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "hci, installation, machine learning, design fiction, video"
+  keywords: "hci, installation, machine learning, design fiction"
 
 project:
   title: "Dreamscaping"
-  type: "hci, installation, machine learning, design fiction, video"
+  type: "hci, installation, machine learning, design fiction"
   url: "https://sites.google.com/view/dreamscapingborderlessjourney/home"
   logo: "/assets/images/projects/dreamscaping/present05_square.jpg"
-  tech: "hci, installation, machine learning, design fiction, video"
+  tech: "hci, installation, machine learning, design fiction"
   people: "RAY LC, Star Sijia Liu, Yifan Evan Zhao, Pinyao Liu, Zhipeng Jia"
 
 agency:
