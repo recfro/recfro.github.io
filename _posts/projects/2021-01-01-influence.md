@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Daijiro Mizuno"
 
 agency:
-  title: "Kyoto Design Lab, CHI'21 Human Factors, CityU Hong Kong"
+  title: "Kyoto Design Lab, alt.CHI, CityU Hong Kong"
   url: "http://raylc.org/influence"
   year: "2021"
 

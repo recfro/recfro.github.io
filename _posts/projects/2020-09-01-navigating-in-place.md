@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Suifang Zhou"
 
 agency:
-  title: "Saari Residence, Generative Art Conference 2020, CICA Museum"
+  title: "Saari Residence, Generative Art Conference, CICA Museum"
   url: "https://cityustudio.wordpress.com/portfolio/navigating-in-place/"
   year: "2020"
 

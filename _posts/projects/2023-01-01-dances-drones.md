@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Pakpong Chirarattananon, Kaixu Dong, Zhiyuan Zhang, Xiaoyu Chang"
 
 agency:
-  title: "Hong Kong Research Grants Council General Research Fund, CHI, CityU Mechanical Engineering and Bioengineering"
+  title: "Hong Kong Research Grants Council General Research Fund, CityU Mechanical Engineering and Bioengineering, Chow Sang Sang Group Research Fund, CHI"
   url: "https://youtu.be/KNos9Z27w0c"
   year: "2023"
 

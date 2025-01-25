@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Lucy Ling, Grace Fan Zhang, Xiaoke Zeng, Tianqi Wang, Yun Chen"
 
 agency:
-  title: "Athens Digital Arts Festival, PMQ, ISEA"
+  title: "Chow Sang Sang Group Research Fund, Athens Digital Arts Festival, PMQ, ISEA"
   url: "https://www.instagram.com/carbon_copy_date/"
   year: "2024"
 

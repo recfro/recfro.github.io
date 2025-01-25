@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Suifang Zhou, Latisha Besariani Hendra, Qinshi Zhang, Jussi Holopainen"
 
 agency:
-  title: "Hong Kong Research Grants Council, CHI, VINCI, PMQ"
+  title: "Hong Kong Research Grants Council General Research Fund, CityU Teaching Development Grant, CHI, VINCI, PMQ"
   url: "https://youtu.be/lvC-KcD2qRE"
   year: "2024"
 

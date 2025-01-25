@@ -15,7 +15,7 @@ project:
   people: "RAY LC"
 
 agency:
-  title: "NeurIPS'20, ACM ARTECH'21, Floating Projects, JCCAC"
+  title: "NeurIPS'20, ACM Artech, Floating Projects, JCCAC"
   url: "https://raylc.org/imitations/"
   year: "2021"
 

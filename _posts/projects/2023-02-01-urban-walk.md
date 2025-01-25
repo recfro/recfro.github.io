@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Zhiting He, Tianqi Wang, Ruishan Wu, Li Chen, Jiayi Su, Carman Wong, CK Fung, Bowen Liu, Latisha Besariani Hendra"
 
 agency:
-  title: "Goethe Institute Korea and HK, Hong Kong Arts Centre, Hong Kong Arts Development Council, SIGGRAPH, VINCI"
+  title: "Goethe Institute Korea and Hong Kong, Hong Kong Arts Centre, Hong Kong Arts Development Council, SIGGRAPH, VINCI"
   url: "https://urbanwalkhk.wordpress.com/"
   year: "2023"
 
@@ -54,4 +54,4 @@ Part of "the future of reality" at <a href="https://dac.siggraph.org/artwork/pre
 Exhibition at <a href="https://dl.acm.org/doi/10.1145/3678698.3687200"><u>VINCI 2024, Hsinchu, Taiwan</u></a>.<br><br>
 Art paper published in <a href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-expertevents-public/a5f209f3a2b24341a34e4aacf0c37742"><u>Proceedings of the International Symposium on Electronic Art (ISEA'24)</u></a>.<br>
 HCI paper published in <a href="https://dl.acm.org/doi/10.1145/3643834.3660711"><u>Designing Interactive Systems Conference (DIS'24)</u></a>.<br>
-Social computing paper published in <a href="https://raylc.org/chairbots/HCIX_UrbanWalk_CSCW_04Prepub.pdf"><u>Computer-Supported Cooperative Work and Social Computing (CSCW'25)</u></a>.</p>
+Social computing paper published in <a href="https://arxiv.org/abs/2501.00359"><u>Computer-Supported Cooperative Work and Social Computing (CSCW'25)</u></a>.</p>

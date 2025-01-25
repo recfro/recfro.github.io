@@ -15,7 +15,7 @@ project:
   people:  "RAY LC"
 
 agency:
-  title: "Parsons School of Design, TEI'21 Tangible Embedded & Embodied Interactions"
+  title: "Parsons School of Design, TEI, Elektra Montreal"
   url: "https://recfreq.wordpress.com/portfolio/agents-of-spatial-influence/"
   year: "2020"
 

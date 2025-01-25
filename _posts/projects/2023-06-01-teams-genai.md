@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Yuanning Han, Ziyi Qiu"
 
 agency:
-  title: "Hong Kong Research Grants Council Theme-based Research Scheme Grant, CHI"
+  title: "Hong Kong Research Grants Council Theme-based Research Scheme Grant, Chow Sang Sang Group Research Fund, CityU Teaching Development Grant, CHI"
   url: "https://dl.acm.org/doi/10.1145/3613904.3642133"
   year: "2024"
 

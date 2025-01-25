@@ -15,7 +15,7 @@ project:
   people: "RAY LC"
 
 agency:
-  title: "Hong Kong Arts Centre, Goethe Institute, Jumping Frames Dance Film Festival, Dash Living, etc"
+  title: "CityU Teaching Development Grant, Hong Kong Arts Centre, Goethe Institute, Jumping Frames Dance Film Festival, Dash Living, Rhythm Studios"
   url: "https://dancefusionhk.wordpress.com/"
   year: "2022"
 

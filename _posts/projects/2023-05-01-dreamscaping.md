@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Star Sijia Liu, Yifan Evan Zhao, Pinyao Liu, Zhipeng Jia"
 
 agency:
-  title: "ACM Creativity and Cognition, ISEA, Fringe Club, alt.CHI, Ars Electronica"
+  title: "Hong Kong Arts Development Council Cultural Exchange, ACM Creativity and Cognition, ISEA, Fringe Club, alt.CHI, Ars Electronica"
   url: "https://sites.google.com/view/dreamscapingborderlessjourney/home"
   year: "2024"
 

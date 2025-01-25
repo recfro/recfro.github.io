@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Bengi Agcal, Jen Lee, Jing Wong"
 
 agency:
-  title: "SIGGRAPH Asia, A4 Museum Chengdu, Kyoto Design Lab, Floating Projects, HKUST, Lingnan University"
+  title: "CityU Teaching Development Grant, SIGGRAPH Asia, A4 Museum Chengdu, Kyoto Design Lab, Floating Projects, HKUST, Lingnan University, Hong Kong Arts Development Council"
   url: "https://nabi.or.kr/en/page/board_view.php?brd_idx=1185&brd_id=project"
   year: "2022"
 
