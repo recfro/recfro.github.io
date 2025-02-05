@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "machine learning, performance, vr ar, web"
+  keywords: "machine learning, performance, vr ar, web, video"
 
 project:
   title: "I Was of Three Minds"
-  type: "machine learning, performance, vr ar, web"
+  type: "machine learning, performance, vr ar, web, video"
   url: "https://recfro.github.io/threeminds/"
   logo: "/assets/images/projects/three-minds/port_threeminds01.png"
-  tech: "machine learning, performance, vr ar, web"
+  tech: "machine learning, performance, vr ar, web, video"
   people: "RAY LC, Zeynep Erol, Eray Ozgunay, Anthon Zhang, Yating Sun, Zijing Song"
 
 agency:
