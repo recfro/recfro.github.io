@@ -56,6 +56,6 @@ When we visit museums today, we see reconstructions of ancient sites that makes 
 
 Exhibition website: <a href="https://archivefuture.wordpress.com/"><u>Archive For / In the Future</u></a>.<br>
 Installation at ACC Gwangju: <a href="https://www.acc.go.kr/main/event.do?PID=0302&action=Read&bnkey=EM_0000007929"><u>AI Human Multiverse</u></a>.<br>
-Video and sculpture installation at Studio Kura: <a href="https://youtu.be/E5QK3B7mHXc"><u>Archive for the Future</u></a>.<br>
+Video installation at Studio Kura: <a href="https://youtu.be/E5QK3B7mHXc"><u>Archive for the Future</u></a>.<br>
 Workshop at ACC Gwangju: <a href="https://www.acc.go.kr/main/event.do?PID=0302&action=Read&bnkey=EM_0000007943"><u>Fortune Telling with GenAI Tarot</u></a>.<br>
 Review by curator Moon-seok Yi: <a href="https://archivefuture.wordpress.com/review-eng/"><u>An Archive Full of Absence</u></a>.</p>
