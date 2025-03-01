@@ -53,5 +53,5 @@ Exhibition website: <a href="https://landhuman.wordpress.com/"><u>Land Human Eno
 SIGGRAPH Asia Daegu exhibition: <a href="https://www.nabi.or.kr/en/page/board_view.php?brd_idx=1185&brd_id=project"><u>Sustainable Ecologies (Art Centre Nabi)</u></a>.<br>
 A4 Art Museum exhibition: <a href="https://mp.weixin.qq.com/s?__biz=MzUzMTAxMjk5OA==&mid=2247538137&idx=5&sn=9f98b03f447c4ee1b7760289590859df&chksm=fb1fb78b2a4413af37c7b278b54f293e8fac98e77c52e31cf73c6748e7d96a25320bf2c59006&scene=126&sessionid=1728602755#rd"><u>Pick Me Up</u></a>.<br>
 Fab Cafe Kyoto workshop and exhibition: <a href="https://fabcafe.com/jp/events/kyoto/2212-2301_land-enough/"><u>Participatory Climate Action (Kyoto Design Lab)</u></a>.<br><br>
-Paper published in <a href="https://raylc.org/chairbots/Bricolage_JournalOfPlay_Prepub.pdf"><u>International Journal of Play</u></a>.<br>
+Paper published in <a href="https://www.tandfonline.com/doi/citedby/10.1080/21594937.2025.2464324"><u>International Journal of Play</u></a>.<br>
 Information about the participants and their creations are found in <a href="/assets/images/projects/participatory/Bricolage_Appendix.pdf"><u>this appendix</u></a>.</p>

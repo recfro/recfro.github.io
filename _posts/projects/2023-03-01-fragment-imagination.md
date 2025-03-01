@@ -9,14 +9,14 @@ meta:
 project:
   title: "Fragment of Our Imagination"
   type: "installation, machine learning, design fiction, video"
-  url: "http://theuntitled.cn/portfolio/fragment-of-our-imagination-ray-lc/"
+  url: "http://www.acentricspace.com/artist/portfolio/fragment-of-our-imagination-ray-lc/"
   logo: "/assets/images/projects/fragment-imagination/port_fragment02.jpg"
   tech: "installation, machine learning, design fiction, video"
   people: "RAY LC, Mia Yao Lan"
 
 agency:
   title: "Shanghai Acentric Space, Hong Kong Arts Development Council"
-  url: "http://theuntitled.cn/portfolio/fragment-of-our-imagination-ray-lc/"
+  url: "http://www.acentricspace.com/artist/portfolio/fragment-of-our-imagination-ray-lc/"
   year: "2023"
 
 videos:
