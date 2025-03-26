@@ -42,6 +42,7 @@ images:
     url: "/assets/images/projects/archive-future/2024_archivefuture_acc-52.jpg"
   - image:
     url: "/assets/images/projects/archive-future/2024_archivefuture_acc-60.jpg"
+  - image:
     url: "/assets/images/projects/archive-future/paper_09.jpg"
   - image:
     url: "/assets/images/projects/archive-future/paper_26.jpg"
