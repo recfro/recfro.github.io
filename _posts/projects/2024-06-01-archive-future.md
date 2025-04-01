@@ -62,6 +62,7 @@ Exhibition website: <a href="https://archivefuture.wordpress.com/"><u>Archive Fo
 Installation at ACC Gwangju: <a href="https://www.acc.go.kr/main/event.do?PID=0302&action=Read&bnkey=EM_0000007929"><u>AI Human Multiverse</u></a>.<br>
 Video installation at Studio Kura: <a href="https://youtu.be/E5QK3B7mHXc"><u>Archive for the Future</u></a>.<br>
 Workshop at ACC Gwangju: <a href="https://www.acc.go.kr/main/event.do?PID=0302&action=Read&bnkey=EM_0000007943"><u>Fortune Telling with GenAI Tarot</u></a>.<br>
-Review by curator Moon-seok Yi: <a href="https://archivefuture.wordpress.com/review-eng/"><u>An Archive Full of Absence</u></a>.<br>
+Review by curator Daehyung Lee: <a href="https://archivefuture.wordpress.com/review-lee/"><u>Art, AI, and the Future Humanity</u></a>.<br>
+Review by curator Moon-seok Yi: <a href="https://archivefuture.wordpress.com/review-yi/"><u>An Archive Full of Absence</u></a>.<br>
 Interview with ACC Gwangju: <a href="https://youtu.be/aFJfMrf0XXM"><u>Ideation, Concept, Development</u></a>.
 </p>
