@@ -26,6 +26,9 @@ videos:
   - video:
     type: youtube
     id: "r4QgyxcBLC8"
+  - video:
+    type: youtube
+    id: "aX2UEYzIle4"
 
 images:
   - image:
