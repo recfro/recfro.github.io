@@ -10,8 +10,29 @@
 <body>
 	{% include header.html %}
 	<main class="content">
+				<div></div>
 		<section class="pages">
 			<div class="container-pubs">
+				<div></div>
+				<div class="left"></div>
+				<div class="right">
+<!-- when adding pages, need to update this to increment -->
+<!-- main pubs page by one, and edit the footer.html file. -->
+					<h3>
+<a href="{{ site.categories.pages[5].url }}"><u>2025</u></a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="{{ site.categories.pages[4].url }}"><u>2024</u></a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="{{ site.categories.pages[3].url }}"><u>2023</u></a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="{{ site.categories.pages[2].url }}"><u>2022</u></a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="{{ site.categories.pages[1].url }}"><u>2021</u></a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="{{ site.categories.pages[0].url }}"><u>2020</u></a>
+					</h3>
+				</div>
+
 				{% for pubs in page.pubs %}
 				<div></div>
 				<div class="left">
