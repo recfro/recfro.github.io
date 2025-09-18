@@ -48,5 +48,5 @@ images:
 The choreography follows Mizuho as she steps outside the digital realm of the virtual platform and into the physical stage, enticing the robot to dance with her. The robot starts with only block-like movements but eventually learns to mimic her with his body. Still he cannot run around or use hands like Mizuho, and eventually seeks the audience for help. Soon Mizuho begins performing actions that the arm is not capable of, such as jumping and lying flat on the ground, leading the robot to wonder on his own: is there also something I can do that the human cannot?<br><br>
 Performance as part of : <a href="https://ieeexplore.ieee.org/document/9975592"><u>IEEE VISAP</u></a>.<br>
 2023 Paper "Contradiction pushes me to improve": <a href="https://dl.acm.org/doi/10.1145/3610182"><u>Proceedings of ACM on Human-Computer Interaction (CSCW'23)</u></a>.<br>
-2025 Paper "A Constructed Response": <a href=""><u>Proceedings of ACM on Human-Computer Interaction (CSCW'25)</u></a>, <a href="https://arxiv.org/abs/2505.23090"><u>archivx</u></a>.
+2025 Paper "A Constructed Response": <a href=""><u>Proceedings of ACM on Human-Computer Interaction (CSCW'25)</u></a>, <a href="https://arxiv.org/abs/2505.23090"><u>arxiv</u></a>.
 </p>

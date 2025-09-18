@@ -53,4 +53,4 @@ Main dating website: <a href="https://carboncopydating.github.io/carboncopydatin
 Select dating profiles: <a href="https://www.instagram.com/carbon_copy_date/"><u>Instagram</u></a>.<br>
 Exhibition: <a href="https://2024.adaf.gr/wp-content/uploads/2024/05/ADAF20YRS_Programm_16X26_May.pdf"><u>Athens Digital Arts Festival</u></a>.<br>
 Exhibition: <a href="https://sites.google.com/view/beyondhumanspaces/"><u>Beyond Human Spaces at PMQ, Hong Kong</u></a>.<br>
-CSCW 2025 Paper: <a href="https://arxiv.org/abs/2502.11430"><u>An Image of Ourselves in Our Minds</u></a>.</p>
+CSCW 2025 Paper: <a href="https://dl.acm.org/doi/10.1145/3710929"><u>An Image of Ourselves in Our Minds</u></a>, <a href="https://arxiv.org/abs/2502.11430"><u>arxiv</u></a>.</p>

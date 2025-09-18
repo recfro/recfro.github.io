@@ -12,7 +12,7 @@ project:
   url: "https://urbanwalkhk.wordpress.com/"
   logo: "/assets/images/projects/urban-walk/port_urban-walk01.jpg"
   tech: "installation, hci, machine learning, vr ar, web"
-  people: "RAY LC, Zhiting He, Tianqi Wang, Ruishan Wu, Li Chen, Jiayi Su, Carman Wong, CK Fung, Bowen Liu, Latisha Besariani Hendra"
+  people: "RAY LC, Zhiting He, Yaning Li, Tianqi Wang, Ruishan Wu, Li Chen, Jiayi Su, Carman Wong, CK Fung, Bowen Liu, Latisha Besariani Hendra, Sirui Wang"
 
 agency:
   title: "Goethe Institute Korea and Hong Kong, Hong Kong Arts Centre, Hong Kong Arts Development Council, SIGGRAPH, VINCI"
@@ -56,5 +56,6 @@ Goethe Institute Hong Kong site: <a href="https://www.goethe.de/ins/hon/en/ver.c
 Part of "the future of reality" at <a href="https://dac.siggraph.org/artwork/present-future-past/"><u>SIGGRAPH DAC</u></a>.<br>
 Exhibition at <a href="https://dl.acm.org/doi/10.1145/3678698.3687200"><u>VINCI 2024, Hsinchu, Taiwan</u></a>.<br><br>
 Art paper published in <a href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-expertevents-public/a5f209f3a2b24341a34e4aacf0c37742"><u>Proceedings of the International Symposium on Electronic Art (ISEA'24)</u></a>.<br>
-HCI paper published in <a href="https://dl.acm.org/doi/10.1145/3643834.3660711"><u>Designing Interactive Systems Conference (DIS'24)</u></a>.<br>
-Social computing paper published in <a href="https://arxiv.org/abs/2501.00359"><u>Computer-Supported Cooperative Work and Social Computing (CSCW'25)</u></a>.</p>
+HCI paper published in <a href="https://dl.acm.org/doi/10.1145/3643834.3660711"><u>Designing Interactive Systems Conference (DIS'24)</u></a>, <a href="https://www.researchgate.net/publication/381877426_Being_Eroded_Piece_by_Piece_Enhancing_Engagement_and_Storytelling_in_Cultural_Heritage_Dissemination_by_Exhibiting_GenAI_Co-Creation_Artifacts"><u>researchgate</u></a>.<br>
+Social computing paper published in <a href="https://doi.org/10.1145/3711006"><u>Computer-Supported Cooperative Work and Social Computing (CSCW'25)</u></a>, <a href="https://arxiv.org/abs/2501.00359"><u>arxiv</u></a>.<br>
+VR paper published in <a href="https://doi.org/10.1080/10447318.2025.2554296"><u>International Journal of Human-Computer Interaction (IJHCI)</u></a>.</p>
