@@ -32,6 +32,9 @@ videos:
   - video:
     type: youtube
     id: "N9MyY4Jxc4w"
+  - video:
+    type: youtube
+    id: "8iyR9HdYJ4U"
 
 images:
   - image:
