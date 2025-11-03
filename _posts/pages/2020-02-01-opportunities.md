@@ -56,5 +56,11 @@ Participants in both schemes are involved in research that can lead to publicati
     image: "/assets/images/pages/opps_cityuscm.jpg"
     url: "https://www.scm.cityu.edu.hk/"
     ref: "cityu hk school of creative media"
+
+  - title: "International Artist-in-Residence (TEA) Program."
+    intro: "We support artists and curators motivated by the shared perspectives of Studio for Narrative Spaces and desire to work with Technology-Enabled Art (TEA) to narrate their vision. We prioritize those with demonstrated need for working with technologies like robotics, generative AI, mocap, games, performance tech, visualization, and 360 immersion and VR platforms, but may otherwise have limited access to these tools. More information on support and previous residents are documented on <a href='../residency'><u>this page</u></a>."
+    image: "/assets/images/pages/opps_residency.jpg"
+    url: "../residency"
+    ref: "previous artists-in-residence"
 ---
 <p></p>
