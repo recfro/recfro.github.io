@@ -21,8 +21,8 @@ residency:
 
   - title: "Karl Law"
     role: "2025, china"
-    intro: "."
+    intro: "Karl (MFA, Central Academy of Fine Arts) is a curator and artist dedicated to exploring cultural and natural narratives. His research and practice focus on the intertwining of memory, ecology, and coexistence, attempting to construct a critical space for reflection through artistic practice."
     url: ""
-    image: "/assets/images/pages/res_.jpg"
+    image: "/assets/images/pages/res_karl01.jpg"
 ---
 <p></p>
