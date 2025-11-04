@@ -21,7 +21,7 @@ residency:
 
   - title: "Karl Law"
     role: "2025, china"
-    intro: "Karl (MFA, Central Academy of Fine Arts) is a curator and artist dedicated to exploring cultural and natural narratives. His research and practice focus on the intertwining of memory, ecology, and coexistence, attempting to construct a critical space for reflection through artistic practice."
+    intro: "Karl (MFA, Central Academy of Fine Arts) is a curator and artist dedicated to exploring cultural and natural narratives. His research and practice focus on the intertwining of memory, ecology, and coexistence, attempting to construct a critical space for reflection through artistic practice. His exhibitions include deTour 2025 (PMQ, HK), The 1st Shangri La Potatso National Park Eco-Art Season (Potatso National Park, China), and The New Youth Experimental Art Biennale 2024 (Jingdezhen, China) etc. Karl worked with MAM (Macao Museum of Arts) and was also the Executive Curator of Art Macao: Macao International Art Biennale 2023."
     url: ""
     image: "/assets/images/pages/res_karl01.jpg"
 ---
