@@ -10,7 +10,7 @@ project:
   title: "Breaking the News"
   type: "hci, games, social good, machine learning, web"
   url: "https://doi.org/10.1145/3748600"
-  logo: "/assets/images/projects/nonhumotion/.jpg"
+  logo: "/assets/images/projects/breaking-the-news/port_breakingnews01.jpg"
   tech: "hci, games, social good, machine learning, web"
   people: "Huiyun Tang, Songqi Sun, Kexin Nie, Ang Li, Anastasia Sergeeva, RAY LC"
 
@@ -26,31 +26,15 @@ videos:
 
 images:
   - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_workshopaA-12.jpg"
+    url: "/assets/images/projects/breaking-the-news/game_flow_RR.jpg"
   - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_workshopaA-36.jpg"
+    url: "/assets/images/projects/breaking-the-news/video03.jpg"
   - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_workshopaA-53.jpg"
+    url: "/assets/images/projects/breaking-the-news/video02.jpg"
   - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_workshopB-31.jpg"
+    url: "/assets/images/projects/breaking-the-news/game_interface_RR.jpg"
   - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_exhibition-01.jpg"
-  - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_workshopB-109.jpg"
-  - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_exhibition-04.jpg"
-  - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_exhibition-05.jpg"
-  - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_exhibition-06.jpg"
-  - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_exhibition-08.jpg"
-  - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_exhibition-10.jpg"
-  - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_exhibition-16.jpg"
-  - image:
-    url: "/assets/images/projects/nonhumotion/2025_nonhumotion_exhibition-177.jpg"
+    url: "/assets/images/projects/breaking-the-news/game_system_RR.jpg"
 ---
 <p>
 "In the future, we as nonhumans, how do we?"<br><br>
