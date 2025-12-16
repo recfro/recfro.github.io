@@ -15,7 +15,7 @@ project:
   people: "Huiyun Tang, Songqi Sun, Kexin Nie, Ang Li, Anastasia Sergeeva, RAY LC"
 
 agency:
-  title: "Taikwun, Hong Kong Arts Development Council, School of Creative Media Sound Lab, Picture Rhythm Studios"
+  title: "CHI PLAY, University of Luxembourg"
   url: "https://doi.org/10.1145/3748600"
   year: "2025"
 
@@ -37,7 +37,6 @@ images:
     url: "/assets/images/projects/breaking-the-news/game_system_RR.jpg"
 ---
 <p>
-"In the future, we as nonhumans, how do we?"<br><br>
-We are slow to see the impacts of climate change, because their effects are often far removed from our immediate space and time. Their effects on planet are aggregated based on hundreds of years of human intervention and unsustainable practices that mother nature has absorbed, so that their immediate effects on us are barely visible. To engage people to look beyond the immediate, we designed a participatory engagement with participants to imagine climate futures through the lens of nonhuman perspectives. Local participants engaged in creation workshops by professors at BaptistU, PolyU, Academy of Performing Arts, and City University of Hong Kong. They created stories that narrate this future, created movement and presentation engagements to show these stories, and constructed objects from found materials designed for this future of warming oceans and gradual loss of biodiversity. We show these participatory narratives as found-material sculptures, and videos that uses motion capture data of the participants' body movement to propel designed nonhuman avatars, illustrating beyond-human perspectives. The interactive installation shows this vision of a future nonhuman perspective periodically interrupted by the presence of visitors in the exhibition space in Taikwun. This work highlights participatory practices for thinking beyond immediate futures in envisioning the effect of climate change on our natural habitat, using movement and narrative creation as interventions for engaging in speculative futures.<br><br>
-Interactive installation in collaboration with <a href="https://sites.google.com/view/picture-rhythm-studios/projects"><u>Picture Rhythm Studios</u></a>. Lighting by <a href="https://www.instagram.com/_lcm_leung/"><u>LCM Leung</u></a>. Musical composition for the show by environmental artist <a href="https://katausten.com/"><u>Dr. Kat Austen</u></a>.<br><br>
-Exhibition website: <a href="https://nonhumotion.wordpress.com/"><u>Nonhumotion</u></a>.</p>
+Effectively mitigating online misinformation requires understanding of their mechanisms and learning of practical skills for identification and counteraction. Serious games may serve as tools for combating misinformation, teaching players to recognize common misinformation tactics, and improving their skills of discernment. However, current interventions are designed as single-player, choice-based games, which present players with limited predefined choices. Such restrictions reduce replayability and may lead to an overly simplistic understanding of misinformation and how to debunk them. This study seeks to empower people to understand opinion-influencing and misinformation-debunking processes. We created a Player vs. Player (PvP) game in which participants attempt to generate or debunk misinformation to convince the public opinion represented by LLM. Using a within-subjects mixed-methods study design (N=47), we found that this game significantly raised participants' media literacy and improved their ability to identify misinformation. Qualitative analyses revealed how participants' use of debunking and content creation strategies deepened their understanding of misinformation. This work shows the potential for illuminating contrasting viewpoints of social issues by LLM-based mechanics in PvP games.<br><br>
+
+Publication: <a href="https://doi.org/10.1145/3748600"><u>Proceedings of the ACM on Human-Computer Interaction (CHI PLAY'25)</u></a>.</p>
