@@ -9,14 +9,14 @@ meta:
 project:
   title: "Becoming My Own Audience"
   type: "installation, hci, performance, vr ar, video"
-  url: ""
+  url: "https://dl.acm.org/doi/10.1145/3706598.3713390"
   logo: "/assets/images/projects/mocap-avatar/port_mocap01.jpg"
   tech: "installation, hci, performance, vr ar, video"
   people: "RAY LC, Grace Fan Zhang, Lareina Molin Li, Kexue Fu, Xiaoyu Chang, Richard Allen"
 
 agency:
   title: "Hong Kong Research Grants Council Theme-based Research Scheme, General Research Fund, CHI"
-  url: ""
+  url: "https://dl.acm.org/doi/10.1145/3706598.3713390"
   year: "2025"
 
 videos:

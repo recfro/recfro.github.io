@@ -9,14 +9,14 @@ meta:
 project:
   title: "Ronaldo's a poser! GenAI in Online Forums"
   type: "hci, machine learning, web, social good"
-  url: ""
+  url: "http://dl.acm.org/doi/10.1145/3706598.3713829"
   logo: "/assets/images/projects/genai-forums/port_ronaldo01.jpg"
   tech: "hci, machine learning, web, social good"
   people: "RAY LC, Fiona Nah, Yuhan Zeng, Yingxuan Shi, Xuehan Huang"
 
 agency:
   title: "Hong Kong Research Grants Council Theme-based Research Scheme, Chow Sang Sang Group Research Fund, City University of Hong Kong Teaching Development Grant, CHI"
-  url: ""
+  url: "http://dl.acm.org/doi/10.1145/3706598.3713829"
   year: "2025"
 
 videos:
