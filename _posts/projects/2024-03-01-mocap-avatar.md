@@ -15,7 +15,7 @@ project:
   people: "RAY LC, Grace Fan Zhang, Lareina Molin Li, Kexue Fu, Xiaoyu Chang, Richard Allen"
 
 agency:
-  title: "Hong Kong Research Grants Council Theme-based Research Scheme, General Research Fund, CHI"
+  title: "Hong Kong Innovation and Technology Commission ITF Grant, Hong Kong Research Grants Council Theme-based Research Scheme, General Research Fund, CHI"
   url: "https://dl.acm.org/doi/10.1145/3706598.3713390"
   year: "2025"
 
