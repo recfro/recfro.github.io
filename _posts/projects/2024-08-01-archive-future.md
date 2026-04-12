@@ -59,10 +59,22 @@ We never forget anything. When we claim to forget past trauma, it's really writi
 When we visit museums today, we see reconstructions of ancient sites that makes us wonder if they really looked this way. We build models about the past through our biased lenses, but will the future will interpret us through their own bias, or understand us as a culture today? To illustrate preserving memories and interpretations as part of a collective heritage, we created an immsersive environment as an archive from the future that attempts to remember us. We used ChatGPT to create personas from history and converted their conversational snippets into non-human robot movement language of the future. The robot arm has virtual existence in VRChat, where visitors can engage with the physical archive online. This work explores how hybrid physical-digital environments illustrate our precarious interpretations of the past and present, inspiring us to preserve intangible forms of cultural heritage in consideration for changing customs of the future.<br><br>
 
 Exhibition website: <a href="https://archivefuture.wordpress.com/"><u>Archive For / In the Future</u></a>.<br>
+
 Installation at ACC Gwangju: <a href="https://www.acc.go.kr/main/event.do?PID=0302&action=Read&bnkey=EM_0000007929"><u>AI Human Multiverse</u></a>.<br>
-Video installation at Studio Kura: <a href="https://youtu.be/E5QK3B7mHXc"><u>Archive for the Future</u></a>.<br>
+
+Exhibition at SIGGRAPH Asia Hong Kong: <a href="https://sa2025.conference-schedule.org/presentation/?id=artg_259&sess=sess179"><u>Generative Futures</u></a>.<br>
+
+Exhibition at Reallation Gallery, Seoul Korea: <a href="https://www.instagram.com/p/DVh-sCOFSIg/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><u>The Third Presence</u></a>.<br>
+
+Video installation at Studio Kura: <a href="https://youtu.be/E5QK3B7mHXc"><u>Archive for the Future</u></a>.<br><br>
+
 Workshop at ACC Gwangju: <a href="https://www.acc.go.kr/main/event.do?PID=0302&action=Read&bnkey=EM_0000007943"><u>Fortune Telling with GenAI Tarot</u></a>.<br>
+
 Review by curator Daehyung Lee: <a href="https://archivefuture.wordpress.com/review-lee/"><u>Art, AI, and the Future Humanity</u></a>.<br>
+
 Review by curator Moon-seok Yi: <a href="https://archivefuture.wordpress.com/review-yi/"><u>An Archive Full of Absence</u></a>.<br>
+
 Interview with ACC Gwangju: <a href="https://youtu.be/aFJfMrf0XXM"><u>Ideation, Concept, Development</u></a>.
+
+Publication: <a href="https://doi.org/10.1145/3757368.3765555"><u>Proceedings of the SIGGRAPH Asia 2025 Art Gallery</u></a>.
 </p>
