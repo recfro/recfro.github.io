@@ -44,6 +44,7 @@ images:
     url: "/assets/images/projects/islands-tomorrow/remove_acc_12.jpg"
 ---
 <p>
+"How we alter ourselves for tomorrow."<br><br>
 Landscapes come and go; people remain the same. In a world threatened by climate change, armed conflict, and fractional bigotry, one entity remain the same: human adaptation. ISLANDS OF TOMORROW is a collective devoted to telling stories of local heritage and expressions of forgotten practices through a collaborative lens between a journalist and an artist, using the language of film. Our works are typically shown at large scale venues, including exhibition spaces, using two or more vantage points to document two creative processes that center around a common subject. We are inspired by people, the way they survive and adapt in an ever-changing and unforgiving world, the narratives they engender by creative expression despite the limitations of their circumstances and the constraints of their medium. ISLANDS OF TOMORROW seeks to document and imagine those visions of people for the future that they cannot fully grasp, seeing in it pockets of humanity despite the rampant changes that alter their environmental and political realities. When one day the world is completely flooded, islands of humanity yet still remain.<br><br>
 Exhibition at Studio Kura, Itoshima Japan:<br>
 &nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/p/C8cP57iyef8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D"><u>Archive for the Future</u></a>.<br>
