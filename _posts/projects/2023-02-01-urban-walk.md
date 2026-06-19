@@ -12,10 +12,10 @@ project:
   url: "https://urbanwalkhk.wordpress.com/"
   logo: "/assets/images/projects/urban-walk/port_urban-walk01.jpg"
   tech: "installation, hci, machine learning, vr ar, web"
-  people: "RAY LC, Zhiting He, Yaning Li, Tianqi Wang, Ruishan Wu, Li Chen, Jiayi Su, Carman Wong, CK Fung, Bowen Liu, Latisha Besariani Hendra, Sirui Wang"
+  people: "RAY LC, Zhiting He, Yushang Yang, Fanxu Meng, Yaning Li, Tianqi Wang, Ruishan Wu, Li Chen, Jiayi Su, Carman Wong, CK Fung, Bowen Liu, Latisha Besariani Hendra, Sirui Wang, Fiona Nah"
 
 agency:
-  title: "Goethe Institute Korea and Hong Kong, Hong Kong Arts Centre, Hong Kong Arts Development Council, SIGGRAPH, VINCI"
+  title: "Goethe Institute Korea and Hong Kong, Hong Kong Arts Centre, Hong Kong Arts Development Council, SIGGRAPH, VINCI, DIS, CSCW"
   url: "https://urbanwalkhk.wordpress.com/"
   year: "2023"
 
@@ -35,6 +35,9 @@ videos:
   - video:
     type: youtube
     id: "8iyR9HdYJ4U"
+  - video:
+    type: youtube
+    id: "hLngDS7nZD4"
 
 images:
   - image:
@@ -48,9 +51,15 @@ images:
   - image:
     url: "/assets/images/projects/urban-walk/Present_01.jpg"
   - image:
-    url: "/assets/images/projects/urban-walk/Present_02.jpg"
-  - image:
     url: "/assets/images/projects/urban-walk/Present_03.jpg"
+  - image:
+    url: "/assets/images/projects/urban-walk/Tangqiu.jpg"
+  - image:
+    url: "/assets/images/projects/urban-walk/teaser1.jpg"
+  - image:
+    url: "/assets/images/projects/urban-walk/4.3.4-repurpose.jpg"
+  - image:
+    url: "/assets/images/projects/urban-walk/4.2-french concession.jpg"
 ---
 <p>
 "Our interpretations as a form of cultural heritage."<br><br>
@@ -62,8 +71,10 @@ Part of "the future of reality" at <a href="https://dac.siggraph.org/artwork/pre
 Exhibition at <a href="https://dl.acm.org/doi/10.1145/3678698.3687200"><u>VINCI 2024, Hsinchu, Taiwan</u></a>.<br>
 Exhibition at <a href="https://mp.weixin.qq.com/s/qlE68dLnwS4A25a3npFKNQ"><u>Hangzhou Central Art Museum</u></a> as part of Derive "being-with moments".<br><br>
 
-HCI paper published in <a href="https://dl.acm.org/doi/10.1145/3643834.3660711"><u>Designing Interactive Systems Conference (DIS'24)</u></a>, <a href="https://www.researchgate.net/publication/381877426_Being_Eroded_Piece_by_Piece_Enhancing_Engagement_and_Storytelling_in_Cultural_Heritage_Dissemination_by_Exhibiting_GenAI_Co-Creation_Artifacts"><u>researchgate</u></a>.<br>
-Social computing paper published in <a href="https://doi.org/10.1145/3711006"><u>Computer-Supported Cooperative Work and Social Computing (CSCW'25)</u></a>, <a href="https://arxiv.org/abs/2501.00359"><u>arxiv</u></a>.<br>
-Art paper published in <a href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-expertevents-public/a5f209f3a2b24341a34e4aacf0c37742"><u>Proceedings of the International Symposium on Electronic Art (ISEA'24)</u></a>.<br>
-Community action paper published in <a href="https://dl.acm.org/doi/10.1145/3715336.3735682"><u>Designing Interactive Systems Conference (DIS'25)</u></a>.<br>
-VR paper published in <a href="https://doi.org/10.1080/10447318.2025.2554296"><u>International Journal of Human-Computer Interaction (IJHCI)</u></a>.</p>
+Academic Outputs:<br>
+- <a href="https://dl.acm.org/doi/10.1145/3643834.3660711"><u>Designing Interactive Systems Conference (DIS'24)</u></a>, <a href="https://www.researchgate.net/publication/381877426_Being_Eroded_Piece_by_Piece_Enhancing_Engagement_and_Storytelling_in_Cultural_Heritage_Dissemination_by_Exhibiting_GenAI_Co-Creation_Artifacts"><u>researchgate</u></a>: participatory AI CH storytelling.<br>
+- <a href="https://doi.org/10.1145/3711006"><u>Computer-Supported Cooperative Work and Social Computing (CSCW'25)</u></a>, <a href="https://arxiv.org/abs/2501.00359"><u>arxiv</u></a>: social computing paper.<br>
+- <a href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-expertevents-public/a5f209f3a2b24341a34e4aacf0c37742"><u>International Symposium on Electronic Art (ISEA'24)</u></a>: art paper.<br>
+- <a href="https://dl.acm.org/doi/10.1145/3715336.3735682"><u>Designing Interactive Systems Conference (DIS'25)</u></a>: community action workshop with GenAI in 360.<br>
+- <a href="https://doi.org/10.1080/10447318.2025.2554296"><u>International Journal of Human-Computer Interaction (IJHCI)</u></a>: VR exploration of material and mental world of CH.<br>
+- <a href="https://doi.org/10.1145/3800645.3812950"><u>Designing Interactive Systems Conference (DIS'26)</u></a>, <a href="http://arxiv.org/abs/2604.15058"><u>arxiv</u></a>: immersive co-design storytelling with 3D GenAI.</p>
