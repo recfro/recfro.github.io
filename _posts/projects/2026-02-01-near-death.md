@@ -4,14 +4,14 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "hci, web, social good"
+  keywords: "hci, web, social good, video"
 
 project:
   title: "Trauma, Spirituality, Expression"
-  type: "hci, web, social good"
+  type: "hci, web, social good video"
   url: "https://sensitive-action-633863.framer.app/"
   logo: "/assets/images/projects/near-death/port_2026_iwastold.jpg"
-  tech: "hci, web, social good"
+  tech: "hci, web, social good video"
   people: "Yifan Evan Zhao, Yuxin Fang, Yihuan Chen, RAY LC"
 
 agency:
