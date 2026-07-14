@@ -59,7 +59,7 @@ REV I VER performance: <a href="https://recfreq.wordpress.com/portfolio/reviver/
 Dreamscaping exhibition: <a href="https://sites.google.com/view/dreamscapingborderlessjourney/home"><u>Fringe Club Hong Kong (2024)</u></a>.<br>
 Dreamscaping workshop: <a href="https://sites.google.com/view/dreamscapingworkshop/home"><u>ACM Creativity and Cognition (2024)</u></a>.<br><br>
 
-Full paper in <a href=""><u>ACM Creativity and Cognition (CC'26)</u></a>.<br>
+Full paper in <a href="https://dl.acm.org/doi/10.1145/3803784.3807563"><u>ACM Creativity and Cognition (CC'26)</u></a>.<br>
 Workshop paper in <a href="https://dl.acm.org/doi/10.1145/3635636.3660762"><u>ACM Creativity and Cognition (CC'24)</u></a>.<br>
 Art paper published in <a href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-expertevents-public/283e6583646b4a0a97d672f08f620db5"><u>Proceedings of the International Symposium on Electronic Art (ISEA'24)</u></a>.<br>
 HCI paper published in <a href="https://dl.acm.org/doi/10.1145/3613905.3644054"><u>Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI'24)</u></a>.</p>
