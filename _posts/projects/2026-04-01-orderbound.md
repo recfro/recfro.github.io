@@ -10,7 +10,7 @@ project:
   title: "Game Companionship"
   type: "hci, social good, web, games"
   url: "https://doi.org/10.1145/3831304"
-  logo: "/assets/images/projects/clayscape/port_2026_orderbound.jpg"
+  logo: "/assets/images/projects/order-bound/port_2026_orderbound.jpg"
   tech: "hci, social good, web, games"
   people: "Xiaohe Mo, Yujie Zhang, RAY LC"
 
