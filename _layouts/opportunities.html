@@ -10,6 +10,17 @@
 <body>
 	{% include header.html %}
 	<main class="content">
+		<section class="intro">
+			<div class="container">
+			<h2>About us.</h2>
+			<p>Join our emergent group of storytellers, experimenters, scientists, technicians, creators, and advocates. We work with PhD researchers, postdocs, RAs, artists, and collaborators of diverse backgrounds and nationalities.</p>
+			<p>&nbsp</p>
+			<h2>Highlights.</h2>
+			<div class="video">
+			{% include vimeoPlayer.html id=930449938 %}
+			</div></div>
+			<p style="margin-bottom: 220px;"></p>
+		</section>
 		<section class="pages">
 			<div class="container-people">
 				{% for opp in page.opps %}
