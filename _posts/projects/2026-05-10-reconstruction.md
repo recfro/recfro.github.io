@@ -7,7 +7,7 @@ meta:
   keywords: "installation, video, machine learning, hci"
 
 project:
-  title: "Recognition / Reconstruction"
+  title: "recognition reconstruction"
   type: "installation, video, machine learning, hci"
   url: "https://mp.weixin.qq.com/s/J8IWM4SY4FaXjsiBC8j2CQ"
   logo: "/assets/images/projects/reconstruction/port_2026_reconstruction.jpg"
