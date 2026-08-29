@@ -12,7 +12,7 @@ project:
   url: "https://urbanwalkhk.wordpress.com/"
   logo: "/assets/images/projects/urban-walk/port_urban-walk01.jpg"
   tech: "installation, hci, machine learning, vr ar, web"
-  people: "RAY LC, Zhiting He, Yushang Yang, Fanxu Meng, Yaning Li, Tianqi Wang, Ruishan Wu, Li Chen, Jiayi Su, Carman Wong, CK Fung, Bowen Liu, Latisha Besariani Hendra, Sirui Wang, Fiona Nah"
+  people: "RAY LC, Zhiting He, Yushang Yang, Fanxu Meng, Yaning Li, Tianqi Wang, Ruishan Wu, Li Chen, Jiayi Su, Carman Wong, CK Fung, Bowen Liu, Latisha Besariani Hendra, Marty Miller, Fiona Nah"
 
 agency:
   title: "Goethe Institute Korea and Hong Kong, Hong Kong Arts Centre, Hong Kong Arts Development Council, SIGGRAPH, VINCI, DIS, CSCW"
@@ -69,9 +69,12 @@ Goethe Institute Korea project site: <a href="https://www.goethe.de/ins/kr/en/ku
 Goethe Institute Hong Kong site: <a href="https://www.goethe.de/ins/hon/en/ver.cfm?event_id=25124383"><u>exhibition and AR walk</u></a>.<br><br>
 Part of "the future of reality" at <a href="https://dac.siggraph.org/artwork/present-future-past/"><u>SIGGRAPH DAC</u></a>.<br>
 Exhibition at <a href="https://dl.acm.org/doi/10.1145/3678698.3687200"><u>VINCI 2024, Hsinchu, Taiwan</u></a>.<br>
-Exhibition at <a href="https://mp.weixin.qq.com/s/qlE68dLnwS4A25a3npFKNQ"><u>Hangzhou Central Art Museum</u></a> as part of Derive "being-with moments".<br><br>
+Exhibition at <a href="https://mp.weixin.qq.com/s/qlE68dLnwS4A25a3npFKNQ"><u>Hangzhou Central Art Museum</u></a> as part of Derive "being-with moments".<br>
+Exhibition at <a href="https://mp.weixin.qq.com/s/J8IWM4SY4FaXjsiBC8j2CQ"><u> Zunyi Hailongtun International Film Festival</u></a>, in Guizhou China as part of Recognition / Reconstruction.
+<br><br>
 
-Academic Outputs:<br>
+Research outcomes from this project examined how cultural heritage storytellers overcome inconsistencies and biases of GenAI models, how groups of storytellers can work together to negotiate their memories and collective experiences into tangible digital forms, and how immersive applications can capture teh physical vs intangible aspects of cultural heritage, showing both the physical artifact and peoples' reminiscences and relationships to these artifacts:<br><br>
+
 - <a href="https://dl.acm.org/doi/10.1145/3643834.3660711"><u>Designing Interactive Systems Conference (DIS'24)</u></a>, <a href="https://www.researchgate.net/publication/381877426_Being_Eroded_Piece_by_Piece_Enhancing_Engagement_and_Storytelling_in_Cultural_Heritage_Dissemination_by_Exhibiting_GenAI_Co-Creation_Artifacts"><u>researchgate</u></a>: participatory AI CH storytelling.<br>
 - <a href="https://doi.org/10.1145/3711006"><u>Computer-Supported Cooperative Work and Social Computing (CSCW'25)</u></a>, <a href="https://arxiv.org/abs/2501.00359"><u>arxiv</u></a>: social computing paper.<br>
 - <a href="https://az659834.vo.msecnd.net/eventsairseasiaprod/production-expertevents-public/a5f209f3a2b24341a34e4aacf0c37742"><u>International Symposium on Electronic Art (ISEA'24)</u></a>: art paper.<br>
