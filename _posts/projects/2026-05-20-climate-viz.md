@@ -4,52 +4,59 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "installation, video, machine learning, hci"
+  keywords: "hci, social good, web, video"
 
 project:
-  title: "recognition reconstruction"
-  type: "installation, video, machine learning, hci"
-  url: "https://mp.weixin.qq.com/s/J8IWM4SY4FaXjsiBC8j2CQ"
-  logo: "/assets/images/projects/reconstruction/port_2026_reconstruction.jpg"
-  tech: "installation, video, machine learning, hci"
-  people: "Karl Law, Yu Lu, Hera Yang, Beiya Yang, Qiang Sun, Bowen Liu, Mia Yao Lan, RAY LC"
+  title: "We are all in big trouble!"
+  type: "hci, social good, web, video"
+  url: "https://doi.org/10.1145/3817034"
+  logo: "/assets/images/projects/climate-viz/port_2026_climateviz.jpg"
+  tech: "hci, social good, web, video"
+  people: "Chu Zhang, Simai Huang, Shaohua Wu, Yihuan Chen, Bowen Liu, RAY LC"
 
 agency:
-  title: "Zunyi Hailongtun International Film Festival, Guizhou Xi Jiu, City University of Hong Kong School of Creative Media"
-  url: "https://mp.weixin.qq.com/s/J8IWM4SY4FaXjsiBC8j2CQ"
+  title: "CSCW, CityUHK, Arts Itoya, TESA, Haba Artlab"
+  url: "https://doi.org/10.1145/3817034"
   year: "2026"
 
 videos:
   - video:
     type: youtube
-    id: ""
+    id: "tb_NHMeit-k"
 
 images:
   - image:
-    url: "/assets/images/projects/reconstruction/2026_guizhou_festival-01.jpg"
+    url: "/assets/images/projects/climate-viz/Call.jpg"
   - image:
-    url: "/assets/images/projects/reconstruction/2026_guizhou_festival-04.jpg"
+    url: "/assets/images/projects/climate-viz/CommentBear.jpg"
   - image:
-    url: "/assets/images/projects/reconstruction/2026_guizhou_festival-05.jpg"
+    url: "/assets/images/projects/climate-viz/categories.jpg"
   - image:
-    url: "/assets/images/projects/reconstruction/2026_guizhou_festival-03_horizontalcollage.jpg"
+    url: "/assets/images/projects/climate-viz/MethodExample.jpg"
   - image:
-    url: "/assets/images/projects/reconstruction/2026_guizhou_festival-07.jpg"
+    url: "/assets/images/projects/climate-viz/ViewsPlot.jpg"
   - image:
-    url: "/assets/images/projects/reconstruction/2026_guizhou_festival-08.jpg"
+    url: "/assets/images/projects/climate-viz/NewsCase.jpg"
   - image:
-    url: "/assets/images/projects/reconstruction/2026_guizhou_festival-09.jpg"
+    url: "/assets/images/projects/climate-viz/2025_nonhumotion_exhibition-24.jpg"
   - image:
-    url: "/assets/images/projects/reconstruction/2026_guizhou_festival-06.jpg"
+    url: "/assets/images/projects/climate-viz/2025_nonhumotion_exhibition-36.jpg"
+  - image:
+    url: "/assets/images/projects/climate-viz/screencap15.jpg"
+  - image:
+    url: "/assets/images/projects/climate-viz/screencap17.jpg"
+  - image:
+    url: "/assets/images/projects/climate-viz/screencap32.jpg"
+  - image:
+    url: "/assets/images/projects/climate-viz/screencap39.jpg"
 ---
 <p>
-"We reconstruct only what we recognize."<br><br>
-Artificial intelligence is no longer merely a tool for documenting history; it has become an emerging participant in shaping historical narratives. Through organizing archives, generating images, and reconstructing absent scenes, AI is transforming how we perceive and interpret the past. However, when AI-generated data potentially exceeds the authentic records preserved in reality, the issue extends beyond technology-it becomes a question of memory, authenticity, and identity. Historically, photographs, archives, and personal memories have shaped our understanding of the past. Yet in the future, AI-generated images, texts, and visual narratives may increasingly influence how history is imagined and remembered. Images of events that never occurred may acquire the appearance of truth and become new forms of 'historical evidence.' Distinguishing reality from fabrication therefore becomes a critical challenge.<br><br>
+"We become what we express."<br><br>
+Climate change is a source of anxiety about the future. Understanding how people express themselves about climate change enables us to address such concerns. To study climate change expression on social media, we analyzed 200 TikTok videos tagged with #climatechange, identifying four categories of content: expressionfeelings, views-appeals, news-information, and trend-hijacking. We found that creators use humor to package sharp critiques, avoiding direct confrontation. They replace complex discussions with life stories, such as adopting a vegetarian lifestyle or deleting emails. They borrow from news media to present fragmented information as scientific interpretations, creating a perception of scientific credibility, balancing scientific accuracy with emotionality. Analysis of viewer responses showed they engaged empathetically, reshaping interpretations of videos. These interactions risk reinforcing existing views but help build community on TikTok, which lacks community structure. This study reveals how creators may retell news on science using personal narratives, highlighting how short-form videos enable climate communication.<br><br>
 
-This exhibition brings together works that explore the veracity of memory recognition and reconstruction in media artworks from international artists. Studio for Narrative Spaces' <i>The Present in the Future Is the Past</i>, explores the gap between official cultural heritage archives and personal emotional memories, revealing that historical records are not complete representations of the past, but selected fragments shaped by preservation and interpretation. Hera Yang and Beiya Yang's works further remind us that memory is not only stored in data, but also exists through spaces, communities, relationships, and embodied experiences-elements that cannot be fully reproduced by AI. Bowen Liu's <i>Thermal Image Archive</i> extends this inquiry into AI-generated imagery, questioning whether visual evidence can still be trusted when machines are capable of producing images that resemble authentic records. Mia Yao Lan's collaborative work <i>Time After Time</i> and RAY LC's <i>New New Town</i> return to the real world of Hong Kong and Japan to explore how our imaginations of a city change our perception of reality. Finally, RAY LC's <i>Fragments of Knossos</i> reinterprets the historical site of Knossos in Crete as a collective mis-imagination where we mapped our own current metaphors and motives into a past none of us has ever been to, but are somehow very sure of. If AI-generated historical data becomes greater than the authentic records left by reality, how do we determine what is truly the past? And how do we reaffirm our identities within algorithmically reconstructed memories?<br><br>
+Inspired by this research, we created an artwork called <a href="https://islandstmrw.wordpress.com/clickloc/"><u>CLICKLOC</u></a> with social-media sourced videos and AI-visions of what are said. To probe how we express our contemporary anxieties, emotions, storytelling, and interpretations of climate change, we crowd-sourced TikTok videos expressing our relationships to climate change and use GenAI to fill out the stories in visual form. This process reveals how GenAI becomes an expressive agent to express our own often isolated stories and arguments about climate change, but it also cautions us to realize how AI can produce inconsistent and nonrepresentative depictions and can subtly alter our intended forms of expression. The video was made using the Stable Diffusion Webui and the Deforum plugin. The AI-generated visuals on the right side of the video are derived from dialogues in the original left-side tiktok video. We utilized DeepSeek to algorithmically summarize the conversations, then fed the extracted keywords into WebUI to generate corresponding scenes. By juxtaposing the original and AI-rendered videos side by side, this parallel editing technique amplifies narrative coherence and intensifies the atmospheric impact of the visuals. The video's opening and closing segments mimic the format of TikTok clips to reinforce a casual, accessible vibe. We first segment each sentence of Tiktok videos, and use Deepseek to extract words that may be converted into visual elements in each sentence, and convert the words into prompt words with a sense of the storyboard, then input the prompt words into Deforum to generate AI videos, ensuring that the generated video has the same rhythm as the original Tiktok video.<br><br>
 
-Exhibition curated by Karl Law:<br>
-<a href="https://mp.weixin.qq.com/s/J8IWM4SY4FaXjsiBC8j2CQ"><u>Zunyi Hailongtun International Film Festival</u></a>.<br>
-Works exhibited:<br>
-<a href="https://urbanwalkhk.wordpress.com/"><u><i>The Present in the Future Is the Past</i></u></a>, <a href="https://youtu.be/babMWkH80FA?"><u><i>Thermal Image</i></u></a>, <a href="https://islandstmrw.wordpress.com/time-after-time/"><u><i>Time After Time</i></u></a>, <a href="https://recfreq.wordpress.com/portfolio/new-new-town/"><u><i>New New Town</i></u></a>, <a href="https://islandstmrw.wordpress.com/fragments-of-knossos/"><u><i>Fragments of Knossos</i></u></a>.
-</p>
+Publication: <a href="https://doi.org/10.1145/3817034"><u>Proceedings of the ACM on Human-Computer Interaction (CSCW'26)</u></a>, <a href="https://arxiv.org/abs/2607.11803"><u>arxiv</u></a>.<br><br>
+
+Exhibition: <a href="https://islandstmrw.wordpress.com/clickloc/"><u>website</u></a>.<br>
+Shown at <a href="https://www.instagram.com/p/DXpTScYDnBS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><u>HABA Art Lab</u></a>, Barcelona, Spain, 22 April to 1 May 2026; <a href="https://www.instagram.com/p/DLEhi9tP6bT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><u>Arts Itoya</u></a>, Takeo, Kyushu Japan, 22 June 2025; <a href="https://www.tesacc.com/events"><u>TESA Taiwan Environmental Sculpture Association</u></a> Creative Center, Taiwan, 10 Jan 2026; School of Creative Media, City University of Hong Kong, 15 Dec 2025.</p>

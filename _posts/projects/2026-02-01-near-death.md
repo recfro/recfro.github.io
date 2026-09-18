@@ -8,10 +8,10 @@ meta:
 
 project:
   title: "Trauma, Spirituality, Expression"
-  type: "hci, web, social good video"
+  type: "hci, web, social good, video"
   url: "https://sensitive-action-633863.framer.app/"
   logo: "/assets/images/projects/near-death/port_2026_iwastold.jpg"
-  tech: "hci, web, social good video"
+  tech: "hci, web, social good, video"
   people: "Yifan Evan Zhao, Yuxin Fang, Yihuan Chen, RAY LC"
 
 agency:
