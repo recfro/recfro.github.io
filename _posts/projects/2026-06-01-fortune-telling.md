@@ -12,7 +12,7 @@ project:
   url: "https://doi.org/10.1145/3816988"
   logo: "/assets/images/projects/fortune-telling/port_cradle01.jpg"
   tech: "hci, machine learning, social good, web"
-  people: "Lucy Long Ling, Xiyu Zheng, Gengchen Cao, Bowen Liu, Star Sijia Liu, RAY LC"
+  people: "Lucy Long Ling, Xiyu Zheng, Gengchen Cao, Bowen Liu, Star Sijia Liu, Karl Law, RAY LC"
 
 agency:
   title: "CSCW, ACM Creativity & Cognition, Hong Kong Arts Centre, CityUHK Singing Waves Gallery"
